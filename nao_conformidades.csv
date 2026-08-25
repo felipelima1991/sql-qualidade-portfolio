@@ -1,0 +1,1401 @@
+id_rnc,id_unidade,data_abertura,tipo_desvio,gravidade,status,data_fechamento,dias_para_fechamento,responsavel
+RNC00001,U021,2023-12-13,Cross contamination,Média,Em tratativa,,,Elaine Rocha
+RNC00002,U021,2025-04-23,Temperatura inadequada,Baixa,Fechada,2025-05-13,20,Diego Alves
+RNC00003,U002,2024-08-19,Higienização inadequada,Média,Fechada,2024-09-04,16,Diego Alves
+RNC00004,U021,2025-02-23,Fornecedor não homologado,Média,Reincidente,2025-03-06,11,Carla Mendes
+RNC00005,U009,2024-02-20,EPI/uniforme não conforme,Baixa,Fechada,2024-02-27,7,Gustavo Reis
+RNC00006,U012,2024-05-12,Fornecedor não homologado,Crítica,Em tratativa,,,Bruno Lima
+RNC00007,U025,2023-11-18,EPI/uniforme não conforme,Alta,Fechada,2023-11-23,5,Bruno Lima
+RNC00008,U013,2024-10-25,Praga/vetor identificado,Média,Fechada,2024-11-03,9,Igor Santos
+RNC00009,U001,2024-01-26,Rotulagem incorreta,Média,Fechada,2024-01-30,4,Elaine Rocha
+RNC00010,U014,2024-03-10,Praga/vetor identificado,Média,Reincidente,2024-03-17,7,Igor Santos
+RNC00011,U025,2024-03-31,Validade vencida,Média,Fechada,2024-04-12,12,Julia Nogueira
+RNC00012,U007,2024-03-05,Validade vencida,Média,Em tratativa,,,Ana Souza
+RNC00013,U020,2024-08-27,Praga/vetor identificado,Média,Reincidente,2024-09-06,10,Diego Alves
+RNC00014,U002,2024-06-03,Rotulagem incorreta,Alta,Reincidente,2024-06-09,6,Helena Dias
+RNC00015,U003,2025-03-29,Praga/vetor identificado,Alta,Fechada,2025-04-04,6,Igor Santos
+RNC00016,U020,2024-12-07,Documentação incompleta (APPCC/HACCP),Crítica,Reincidente,2024-12-11,4,Elaine Rocha
+RNC00017,U013,2025-07-27,Rotulagem incorreta,Média,Em tratativa,,,Felipe Oliveira
+RNC00018,U001,2025-05-25,Temperatura inadequada,Média,Fechada,2025-05-30,5,Bruno Lima
+RNC00019,U023,2025-07-08,Validade vencida,Baixa,Fechada,2025-07-21,13,Diego Alves
+RNC00020,U009,2025-02-09,EPI/uniforme não conforme,Baixa,Em tratativa,,,Julia Nogueira
+RNC00021,U016,2024-06-05,Cross contamination,Alta,Aberta,,,Felipe Oliveira
+RNC00022,U014,2024-11-24,Rotulagem incorreta,Média,Fechada,2024-11-29,5,Ana Souza
+RNC00023,U013,2024-09-12,Falha em BPF,Alta,Fechada,2024-09-18,6,Gustavo Reis
+RNC00024,U006,2024-07-12,Rotulagem incorreta,Média,Fechada,2024-07-21,9,Helena Dias
+RNC00025,U018,2024-01-09,Documentação incompleta (APPCC/HACCP),Baixa,Reincidente,2024-02-01,23,Carla Mendes
+RNC00026,U014,2025-02-09,Temperatura inadequada,Média,Fechada,2025-02-16,7,Carla Mendes
+RNC00027,U013,2023-10-03,Cross contamination,Crítica,Fechada,2023-10-05,2,Igor Santos
+RNC00028,U022,2025-02-10,Temperatura inadequada,Baixa,Fechada,2025-03-04,22,Julia Nogueira
+RNC00029,U024,2025-04-08,Validade vencida,Baixa,Fechada,2025-04-19,11,Carla Mendes
+RNC00030,U002,2025-03-04,EPI/uniforme não conforme,Baixa,Em tratativa,,,Bruno Lima
+RNC00031,U022,2024-05-28,Temperatura inadequada,Média,Fechada,2024-06-09,12,Julia Nogueira
+RNC00032,U003,2024-12-03,Higienização inadequada,Média,Fechada,2024-12-09,6,Elaine Rocha
+RNC00033,U007,2024-08-17,Higienização inadequada,Baixa,Fechada,2024-08-21,4,Bruno Lima
+RNC00034,U001,2025-01-12,Rotulagem incorreta,Média,Fechada,2025-01-23,11,Bruno Lima
+RNC00035,U018,2024-05-06,Documentação incompleta (APPCC/HACCP),Média,Aberta,,,Felipe Oliveira
+RNC00036,U010,2024-03-10,Praga/vetor identificado,Média,Fechada,2024-03-20,10,Julia Nogueira
+RNC00037,U021,2025-03-25,Falha em BPF,Baixa,Fechada,2025-04-08,14,Elaine Rocha
+RNC00038,U004,2024-01-18,Praga/vetor identificado,Alta,Em tratativa,,,Julia Nogueira
+RNC00039,U007,2024-09-16,Temperatura inadequada,Baixa,Fechada,2024-09-24,8,Bruno Lima
+RNC00040,U021,2024-12-07,Higienização inadequada,Alta,Aberta,,,Carla Mendes
+RNC00041,U021,2024-06-25,Rotulagem incorreta,Baixa,Fechada,2024-06-28,3,Bruno Lima
+RNC00042,U023,2024-03-01,EPI/uniforme não conforme,Média,Fechada,2024-03-11,10,Igor Santos
+RNC00043,U005,2024-12-14,Temperatura inadequada,Baixa,Fechada,2024-12-21,7,Felipe Oliveira
+RNC00044,U007,2024-06-12,Validade vencida,Média,Fechada,2024-06-27,15,Gustavo Reis
+RNC00045,U020,2024-03-07,Falha em BPF,Crítica,Fechada,2024-03-10,3,Gustavo Reis
+RNC00046,U001,2024-04-01,Cross contamination,Alta,Fechada,2024-04-07,6,Diego Alves
+RNC00047,U009,2024-03-12,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-03-20,8,Diego Alves
+RNC00048,U015,2024-09-23,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-10-12,19,Diego Alves
+RNC00049,U001,2024-04-15,Higienização inadequada,Média,Fechada,2024-04-22,7,Igor Santos
+RNC00050,U013,2025-04-02,Praga/vetor identificado,Baixa,Aberta,,,Carla Mendes
+RNC00051,U019,2024-06-28,Cross contamination,Baixa,Fechada,2024-07-05,7,Julia Nogueira
+RNC00052,U017,2024-01-27,Praga/vetor identificado,Média,Fechada,2024-02-01,5,Ana Souza
+RNC00053,U023,2024-12-20,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-01-07,18,Felipe Oliveira
+RNC00054,U014,2023-12-11,EPI/uniforme não conforme,Crítica,Reincidente,2023-12-13,2,Felipe Oliveira
+RNC00055,U022,2024-02-05,Cross contamination,Alta,Fechada,2024-02-09,4,Elaine Rocha
+RNC00056,U018,2024-02-08,Cross contamination,Baixa,Fechada,2024-02-24,16,Carla Mendes
+RNC00057,U020,2025-05-05,Cross contamination,Baixa,Fechada,2025-05-16,11,Julia Nogueira
+RNC00058,U020,2025-08-01,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-08-12,11,Igor Santos
+RNC00059,U016,2024-03-22,Rotulagem incorreta,Média,Fechada,2024-03-28,6,Diego Alves
+RNC00060,U022,2024-08-13,Temperatura inadequada,Baixa,Em tratativa,,,Ana Souza
+RNC00061,U008,2025-01-29,EPI/uniforme não conforme,Média,Fechada,2025-02-06,8,Diego Alves
+RNC00062,U023,2024-10-28,Temperatura inadequada,Média,Em tratativa,,,Bruno Lima
+RNC00063,U025,2024-12-09,Validade vencida,Baixa,Fechada,2024-12-24,15,Diego Alves
+RNC00064,U004,2025-01-10,Validade vencida,Baixa,Fechada,2025-01-13,3,Igor Santos
+RNC00065,U020,2024-08-20,Validade vencida,Crítica,Fechada,2024-08-24,4,Gustavo Reis
+RNC00066,U018,2024-12-30,Fornecedor não homologado,Alta,Fechada,2025-01-01,2,Helena Dias
+RNC00067,U009,2024-06-10,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-06-14,4,Elaine Rocha
+RNC00068,U015,2023-12-19,Higienização inadequada,Alta,Em tratativa,,,Felipe Oliveira
+RNC00069,U018,2023-12-22,Rotulagem incorreta,Baixa,Fechada,2024-01-04,13,Gustavo Reis
+RNC00070,U014,2024-09-03,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-09-17,14,Gustavo Reis
+RNC00071,U013,2025-05-21,Fornecedor não homologado,Crítica,Fechada,2025-05-27,6,Ana Souza
+RNC00072,U012,2024-08-01,Cross contamination,Alta,Fechada,2024-08-06,5,Igor Santos
+RNC00073,U024,2025-04-12,Fornecedor não homologado,Alta,Fechada,2025-04-19,7,Ana Souza
+RNC00074,U013,2024-09-09,Falha em BPF,Média,Fechada,2024-09-14,5,Helena Dias
+RNC00075,U005,2025-06-29,Rotulagem incorreta,Média,Fechada,2025-07-11,12,Gustavo Reis
+RNC00076,U005,2025-01-15,Higienização inadequada,Baixa,Fechada,2025-01-22,7,Diego Alves
+RNC00077,U015,2024-08-30,Cross contamination,Baixa,Reincidente,2024-09-14,15,Elaine Rocha
+RNC00078,U003,2025-01-24,Higienização inadequada,Baixa,Fechada,2025-02-01,8,Diego Alves
+RNC00079,U021,2023-12-10,Documentação incompleta (APPCC/HACCP),Alta,Reincidente,2023-12-12,2,Ana Souza
+RNC00080,U020,2024-03-05,Rotulagem incorreta,Baixa,Fechada,2024-03-08,3,Julia Nogueira
+RNC00081,U007,2025-01-19,Rotulagem incorreta,Média,Fechada,2025-01-27,8,Carla Mendes
+RNC00082,U010,2024-01-19,EPI/uniforme não conforme,Média,Reincidente,2024-01-24,5,Gustavo Reis
+RNC00083,U013,2024-04-21,Praga/vetor identificado,Baixa,Em tratativa,,,Julia Nogueira
+RNC00084,U004,2025-05-02,Cross contamination,Alta,Fechada,2025-05-03,1,Felipe Oliveira
+RNC00085,U003,2025-03-02,Cross contamination,Média,Fechada,2025-03-14,12,Felipe Oliveira
+RNC00086,U021,2025-01-13,Validade vencida,Alta,Fechada,2025-01-18,5,Elaine Rocha
+RNC00087,U020,2025-04-04,Higienização inadequada,Alta,Fechada,2025-04-04,0,Diego Alves
+RNC00088,U003,2024-07-12,Fornecedor não homologado,Alta,Em tratativa,,,Julia Nogueira
+RNC00089,U020,2024-10-23,Higienização inadequada,Baixa,Fechada,2024-10-29,6,Elaine Rocha
+RNC00090,U011,2024-07-13,Praga/vetor identificado,Alta,Fechada,2024-07-18,5,Igor Santos
+RNC00091,U001,2025-03-13,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2025-03-18,5,Helena Dias
+RNC00092,U021,2025-02-14,Praga/vetor identificado,Média,Aberta,,,Diego Alves
+RNC00093,U013,2024-06-06,Cross contamination,Baixa,Fechada,2024-06-12,6,Igor Santos
+RNC00094,U011,2024-09-25,Praga/vetor identificado,Alta,Fechada,2024-09-28,3,Diego Alves
+RNC00095,U004,2024-04-15,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-04-26,11,Diego Alves
+RNC00096,U024,2025-02-07,Validade vencida,Baixa,Fechada,2025-02-07,0,Julia Nogueira
+RNC00097,U010,2024-01-11,Validade vencida,Alta,Fechada,2024-01-15,4,Carla Mendes
+RNC00098,U009,2023-11-16,Falha em BPF,Crítica,Fechada,2023-11-20,4,Helena Dias
+RNC00099,U004,2023-10-13,Temperatura inadequada,Média,Em tratativa,,,Elaine Rocha
+RNC00100,U016,2024-01-25,Rotulagem incorreta,Alta,Fechada,2024-01-30,5,Julia Nogueira
+RNC00101,U021,2023-11-24,Documentação incompleta (APPCC/HACCP),Baixa,Aberta,,,Bruno Lima
+RNC00102,U018,2024-11-30,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-11-30,0,Igor Santos
+RNC00103,U013,2025-01-04,EPI/uniforme não conforme,Alta,Fechada,2025-01-08,4,Julia Nogueira
+RNC00104,U002,2025-06-16,Documentação incompleta (APPCC/HACCP),Crítica,Aberta,,,Diego Alves
+RNC00105,U009,2023-12-23,Fornecedor não homologado,Baixa,Aberta,,,Julia Nogueira
+RNC00106,U016,2024-07-25,Praga/vetor identificado,Baixa,Fechada,2024-08-08,14,Helena Dias
+RNC00107,U003,2024-05-27,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2024-05-30,3,Gustavo Reis
+RNC00108,U004,2025-04-10,Praga/vetor identificado,Baixa,Em tratativa,,,Carla Mendes
+RNC00109,U003,2023-12-01,Praga/vetor identificado,Baixa,Fechada,2023-12-09,8,Helena Dias
+RNC00110,U004,2025-01-22,Praga/vetor identificado,Média,Fechada,2025-02-05,14,Igor Santos
+RNC00111,U018,2025-02-17,EPI/uniforme não conforme,Média,Fechada,2025-02-18,1,Elaine Rocha
+RNC00112,U001,2024-01-02,EPI/uniforme não conforme,Baixa,Fechada,2024-01-06,4,Julia Nogueira
+RNC00113,U001,2024-07-02,Fornecedor não homologado,Média,Fechada,2024-07-10,8,Elaine Rocha
+RNC00114,U006,2025-05-22,Rotulagem incorreta,Média,Fechada,2025-05-27,5,Helena Dias
+RNC00115,U012,2024-11-22,Fornecedor não homologado,Baixa,Fechada,2024-11-28,6,Elaine Rocha
+RNC00116,U022,2024-11-14,Fornecedor não homologado,Alta,Fechada,2024-11-14,0,Bruno Lima
+RNC00117,U011,2024-06-15,Temperatura inadequada,Baixa,Fechada,2024-07-02,17,Igor Santos
+RNC00118,U015,2024-11-27,EPI/uniforme não conforme,Baixa,Fechada,2024-12-07,10,Helena Dias
+RNC00119,U021,2024-12-26,Fornecedor não homologado,Alta,Reincidente,2024-12-31,5,Helena Dias
+RNC00120,U004,2023-10-30,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2023-11-03,4,Carla Mendes
+RNC00121,U010,2025-04-17,Rotulagem incorreta,Baixa,Fechada,2025-04-25,8,Helena Dias
+RNC00122,U004,2025-07-25,Praga/vetor identificado,Alta,Fechada,2025-07-30,5,Igor Santos
+RNC00123,U023,2024-07-06,Falha em BPF,Média,Fechada,2024-07-09,3,Gustavo Reis
+RNC00124,U007,2025-06-05,Rotulagem incorreta,Média,Fechada,2025-06-13,8,Elaine Rocha
+RNC00125,U025,2024-11-28,Praga/vetor identificado,Baixa,Aberta,,,Julia Nogueira
+RNC00126,U019,2025-02-13,Fornecedor não homologado,Alta,Fechada,2025-02-16,3,Felipe Oliveira
+RNC00127,U011,2025-04-18,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-04-18,0,Julia Nogueira
+RNC00128,U013,2024-05-27,Higienização inadequada,Alta,Fechada,2024-06-05,9,Helena Dias
+RNC00129,U023,2024-10-25,Fornecedor não homologado,Média,Reincidente,2024-10-29,4,Ana Souza
+RNC00130,U005,2025-02-26,Rotulagem incorreta,Crítica,Fechada,2025-02-26,0,Helena Dias
+RNC00131,U004,2025-03-22,Falha em BPF,Alta,Fechada,2025-03-28,6,Bruno Lima
+RNC00132,U016,2024-06-28,Rotulagem incorreta,Baixa,Fechada,2024-07-10,12,Felipe Oliveira
+RNC00133,U022,2025-03-30,Validade vencida,Média,Fechada,2025-04-04,5,Ana Souza
+RNC00134,U020,2023-12-10,Praga/vetor identificado,Baixa,Fechada,2023-12-30,20,Diego Alves
+RNC00135,U024,2024-01-01,Fornecedor não homologado,Média,Fechada,2024-01-13,12,Carla Mendes
+RNC00136,U023,2024-08-02,Temperatura inadequada,Alta,Aberta,,,Elaine Rocha
+RNC00137,U012,2024-10-18,Falha em BPF,Média,Fechada,2024-10-26,8,Carla Mendes
+RNC00138,U006,2023-12-20,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-01-01,12,Helena Dias
+RNC00139,U019,2024-02-24,Fornecedor não homologado,Baixa,Fechada,2024-03-02,7,Elaine Rocha
+RNC00140,U022,2025-04-12,Higienização inadequada,Baixa,Fechada,2025-04-18,6,Julia Nogueira
+RNC00141,U010,2025-07-16,Cross contamination,Crítica,Fechada,2025-07-18,2,Helena Dias
+RNC00142,U004,2024-05-30,Praga/vetor identificado,Média,Fechada,2024-06-02,3,Elaine Rocha
+RNC00143,U001,2024-11-09,Temperatura inadequada,Baixa,Fechada,2024-11-12,3,Julia Nogueira
+RNC00144,U024,2025-02-20,Documentação incompleta (APPCC/HACCP),Alta,Reincidente,2025-02-23,3,Julia Nogueira
+RNC00145,U012,2024-05-12,Falha em BPF,Média,Fechada,2024-05-15,3,Bruno Lima
+RNC00146,U021,2025-07-23,Temperatura inadequada,Baixa,Fechada,2025-07-28,5,Julia Nogueira
+RNC00147,U012,2024-02-12,Falha em BPF,Baixa,Em tratativa,,,Igor Santos
+RNC00148,U012,2025-03-27,Falha em BPF,Média,Fechada,2025-04-10,14,Elaine Rocha
+RNC00149,U016,2024-07-29,Falha em BPF,Alta,Reincidente,2024-08-02,4,Diego Alves
+RNC00150,U022,2024-11-10,Higienização inadequada,Crítica,Fechada,2024-11-13,3,Bruno Lima
+RNC00151,U013,2023-10-15,Praga/vetor identificado,Baixa,Fechada,2023-10-31,16,Julia Nogueira
+RNC00152,U013,2025-07-15,Documentação incompleta (APPCC/HACCP),Crítica,Em tratativa,,,Helena Dias
+RNC00153,U001,2025-06-26,Rotulagem incorreta,Alta,Em tratativa,,,Helena Dias
+RNC00154,U023,2024-08-05,Temperatura inadequada,Média,Em tratativa,,,Ana Souza
+RNC00155,U010,2025-02-16,Higienização inadequada,Baixa,Fechada,2025-02-28,12,Igor Santos
+RNC00156,U014,2025-05-24,Cross contamination,Alta,Em tratativa,,,Bruno Lima
+RNC00157,U016,2025-06-22,Fornecedor não homologado,Média,Fechada,2025-06-30,8,Helena Dias
+RNC00158,U008,2024-10-06,Validade vencida,Baixa,Fechada,2024-10-17,11,Felipe Oliveira
+RNC00159,U002,2024-11-11,Rotulagem incorreta,Baixa,Fechada,2024-12-07,26,Diego Alves
+RNC00160,U021,2025-07-16,Higienização inadequada,Média,Aberta,,,Diego Alves
+RNC00161,U005,2025-05-01,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-05-16,15,Felipe Oliveira
+RNC00162,U025,2024-02-29,Praga/vetor identificado,Alta,Fechada,2024-03-02,2,Carla Mendes
+RNC00163,U005,2025-04-06,Temperatura inadequada,Baixa,Aberta,,,Felipe Oliveira
+RNC00164,U008,2025-05-25,Temperatura inadequada,Baixa,Em tratativa,,,Carla Mendes
+RNC00165,U024,2024-12-05,Validade vencida,Média,Fechada,2024-12-12,7,Julia Nogueira
+RNC00166,U004,2025-01-05,Temperatura inadequada,Média,Reincidente,2025-01-08,3,Igor Santos
+RNC00167,U010,2025-01-12,Cross contamination,Média,Fechada,2025-02-03,22,Bruno Lima
+RNC00168,U016,2024-12-28,EPI/uniforme não conforme,Baixa,Aberta,,,Carla Mendes
+RNC00169,U003,2024-02-07,EPI/uniforme não conforme,Baixa,Fechada,2024-02-13,6,Igor Santos
+RNC00170,U010,2025-01-07,Rotulagem incorreta,Média,Fechada,2025-01-11,4,Igor Santos
+RNC00171,U024,2024-05-08,Cross contamination,Média,Fechada,2024-05-19,11,Gustavo Reis
+RNC00172,U024,2024-01-06,Praga/vetor identificado,Baixa,Fechada,2024-01-13,7,Felipe Oliveira
+RNC00173,U005,2025-01-28,Higienização inadequada,Baixa,Aberta,,,Carla Mendes
+RNC00174,U018,2023-12-01,Higienização inadequada,Média,Fechada,2023-12-07,6,Bruno Lima
+RNC00175,U014,2024-09-27,Temperatura inadequada,Alta,Reincidente,2024-10-04,7,Elaine Rocha
+RNC00176,U020,2024-08-15,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-08-21,6,Carla Mendes
+RNC00177,U022,2025-02-05,Praga/vetor identificado,Baixa,Fechada,2025-02-26,21,Julia Nogueira
+RNC00178,U008,2024-12-13,EPI/uniforme não conforme,Alta,Reincidente,2024-12-21,8,Julia Nogueira
+RNC00179,U022,2025-07-20,Temperatura inadequada,Média,Fechada,2025-07-23,3,Carla Mendes
+RNC00180,U009,2024-08-12,Falha em BPF,Crítica,Fechada,2024-08-13,1,Carla Mendes
+RNC00181,U019,2024-11-14,Validade vencida,Baixa,Aberta,,,Diego Alves
+RNC00182,U013,2024-12-03,Praga/vetor identificado,Média,Em tratativa,,,Felipe Oliveira
+RNC00183,U025,2025-05-04,Temperatura inadequada,Média,Fechada,2025-05-13,9,Bruno Lima
+RNC00184,U009,2024-12-27,Fornecedor não homologado,Média,Fechada,2025-01-02,6,Gustavo Reis
+RNC00185,U009,2024-05-08,EPI/uniforme não conforme,Alta,Fechada,2024-05-15,7,Helena Dias
+RNC00186,U017,2024-08-11,EPI/uniforme não conforme,Baixa,Fechada,2024-08-27,16,Ana Souza
+RNC00187,U001,2024-04-27,Higienização inadequada,Baixa,Fechada,2024-05-09,12,Bruno Lima
+RNC00188,U001,2025-02-21,Cross contamination,Alta,Em tratativa,,,Igor Santos
+RNC00189,U023,2024-05-23,Temperatura inadequada,Média,Aberta,,,Gustavo Reis
+RNC00190,U001,2025-01-13,EPI/uniforme não conforme,Crítica,Fechada,2025-01-13,0,Gustavo Reis
+RNC00191,U019,2024-11-18,Higienização inadequada,Alta,Aberta,,,Carla Mendes
+RNC00192,U020,2025-01-14,Rotulagem incorreta,Alta,Reincidente,2025-01-19,5,Gustavo Reis
+RNC00193,U004,2024-06-06,Higienização inadequada,Média,Fechada,2024-06-12,6,Diego Alves
+RNC00194,U011,2024-03-21,Validade vencida,Baixa,Fechada,2024-04-03,13,Igor Santos
+RNC00195,U007,2024-09-22,Rotulagem incorreta,Média,Em tratativa,,,Carla Mendes
+RNC00196,U009,2024-04-20,Rotulagem incorreta,Baixa,Em tratativa,,,Carla Mendes
+RNC00197,U025,2025-07-05,EPI/uniforme não conforme,Média,Fechada,2025-07-13,8,Julia Nogueira
+RNC00198,U011,2025-07-04,Fornecedor não homologado,Baixa,Fechada,2025-07-05,1,Helena Dias
+RNC00199,U021,2024-08-06,Fornecedor não homologado,Alta,Aberta,,,Helena Dias
+RNC00200,U002,2023-11-28,Rotulagem incorreta,Média,Fechada,2023-12-03,5,Julia Nogueira
+RNC00201,U020,2025-03-03,Temperatura inadequada,Média,Fechada,2025-03-03,0,Helena Dias
+RNC00202,U019,2025-07-29,Validade vencida,Baixa,Fechada,2025-08-02,4,Carla Mendes
+RNC00203,U002,2025-01-04,Validade vencida,Baixa,Fechada,2025-01-20,16,Carla Mendes
+RNC00204,U002,2024-06-10,Validade vencida,Alta,Reincidente,2024-06-13,3,Igor Santos
+RNC00205,U020,2024-03-11,EPI/uniforme não conforme,Média,Fechada,2024-03-22,11,Ana Souza
+RNC00206,U021,2025-07-24,Validade vencida,Baixa,Fechada,2025-08-02,9,Gustavo Reis
+RNC00207,U010,2024-06-15,Higienização inadequada,Alta,Fechada,2024-06-16,1,Bruno Lima
+RNC00208,U019,2024-02-22,Cross contamination,Alta,Fechada,2024-02-22,0,Carla Mendes
+RNC00209,U020,2023-12-26,Validade vencida,Baixa,Fechada,2023-12-30,4,Bruno Lima
+RNC00210,U021,2024-12-07,Praga/vetor identificado,Média,Aberta,,,Carla Mendes
+RNC00211,U007,2024-09-14,Rotulagem incorreta,Crítica,Em tratativa,,,Elaine Rocha
+RNC00212,U004,2025-03-03,Validade vencida,Alta,Fechada,2025-03-08,5,Ana Souza
+RNC00213,U022,2024-09-09,Falha em BPF,Alta,Em tratativa,,,Julia Nogueira
+RNC00214,U006,2024-12-22,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-12-28,6,Helena Dias
+RNC00215,U020,2024-07-18,Fornecedor não homologado,Alta,Em tratativa,,,Diego Alves
+RNC00216,U012,2025-05-07,Praga/vetor identificado,Crítica,Fechada,2025-05-08,1,Gustavo Reis
+RNC00217,U017,2025-03-24,Praga/vetor identificado,Média,Fechada,2025-04-02,9,Ana Souza
+RNC00218,U021,2025-02-04,Rotulagem incorreta,Alta,Fechada,2025-02-10,6,Igor Santos
+RNC00219,U004,2024-07-18,Cross contamination,Baixa,Fechada,2024-08-02,15,Bruno Lima
+RNC00220,U008,2025-01-04,Cross contamination,Alta,Reincidente,2025-01-11,7,Ana Souza
+RNC00221,U013,2025-02-26,Higienização inadequada,Média,Em tratativa,,,Bruno Lima
+RNC00222,U023,2025-07-27,Temperatura inadequada,Baixa,Em tratativa,,,Elaine Rocha
+RNC00223,U016,2024-02-20,Temperatura inadequada,Alta,Reincidente,2024-02-21,1,Elaine Rocha
+RNC00224,U007,2024-03-02,Validade vencida,Média,Fechada,2024-03-11,9,Gustavo Reis
+RNC00225,U004,2024-07-22,EPI/uniforme não conforme,Baixa,Fechada,2024-08-06,15,Helena Dias
+RNC00226,U003,2024-01-22,Validade vencida,Alta,Fechada,2024-01-28,6,Ana Souza
+RNC00227,U021,2025-03-11,Higienização inadequada,Média,Aberta,,,Diego Alves
+RNC00228,U019,2024-11-30,Validade vencida,Baixa,Fechada,2024-12-07,7,Felipe Oliveira
+RNC00229,U003,2025-03-22,Fornecedor não homologado,Média,Aberta,,,Ana Souza
+RNC00230,U021,2024-10-31,Temperatura inadequada,Crítica,Fechada,2024-11-01,1,Felipe Oliveira
+RNC00231,U003,2024-09-18,Higienização inadequada,Baixa,Fechada,2024-09-28,10,Carla Mendes
+RNC00232,U002,2024-09-25,Falha em BPF,Média,Fechada,2024-10-01,6,Helena Dias
+RNC00233,U023,2025-02-02,Fornecedor não homologado,Média,Fechada,2025-02-10,8,Ana Souza
+RNC00234,U010,2024-04-24,Temperatura inadequada,Baixa,Em tratativa,,,Felipe Oliveira
+RNC00235,U010,2025-03-11,Documentação incompleta (APPCC/HACCP),Média,Aberta,,,Elaine Rocha
+RNC00236,U012,2023-11-18,Rotulagem incorreta,Alta,Fechada,2023-11-20,2,Felipe Oliveira
+RNC00237,U014,2024-11-13,Fornecedor não homologado,Alta,Reincidente,2024-11-19,6,Helena Dias
+RNC00238,U012,2025-03-15,Cross contamination,Baixa,Aberta,,,Bruno Lima
+RNC00239,U014,2025-06-08,Higienização inadequada,Crítica,Em tratativa,,,Elaine Rocha
+RNC00240,U010,2024-12-30,Fornecedor não homologado,Média,Fechada,2025-01-10,11,Felipe Oliveira
+RNC00241,U015,2023-11-13,Temperatura inadequada,Alta,Fechada,2023-11-20,7,Bruno Lima
+RNC00242,U022,2025-07-14,Falha em BPF,Média,Fechada,2025-07-19,5,Ana Souza
+RNC00243,U005,2025-06-14,Higienização inadequada,Média,Em tratativa,,,Felipe Oliveira
+RNC00244,U013,2025-05-03,Fornecedor não homologado,Baixa,Em tratativa,,,Felipe Oliveira
+RNC00245,U012,2024-12-28,Praga/vetor identificado,Alta,Fechada,2024-12-30,2,Diego Alves
+RNC00246,U004,2023-10-27,Cross contamination,Alta,Fechada,2023-10-30,3,Igor Santos
+RNC00247,U004,2024-06-25,Fornecedor não homologado,Alta,Fechada,2024-06-29,4,Diego Alves
+RNC00248,U004,2024-02-16,Fornecedor não homologado,Alta,Fechada,2024-02-19,3,Bruno Lima
+RNC00249,U022,2024-08-23,Praga/vetor identificado,Média,Fechada,2024-08-29,6,Carla Mendes
+RNC00250,U023,2025-07-15,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-07-19,4,Bruno Lima
+RNC00251,U007,2024-02-20,Fornecedor não homologado,Baixa,Fechada,2024-02-26,6,Igor Santos
+RNC00252,U005,2025-06-18,Cross contamination,Alta,Aberta,,,Helena Dias
+RNC00253,U017,2024-11-24,Rotulagem incorreta,Alta,Reincidente,2024-11-29,5,Helena Dias
+RNC00254,U015,2025-03-13,Validade vencida,Baixa,Fechada,2025-03-22,9,Julia Nogueira
+RNC00255,U006,2024-02-10,Falha em BPF,Média,Em tratativa,,,Elaine Rocha
+RNC00256,U006,2024-03-14,Higienização inadequada,Baixa,Fechada,2024-03-24,10,Igor Santos
+RNC00257,U010,2023-12-20,Praga/vetor identificado,Baixa,Em tratativa,,,Julia Nogueira
+RNC00258,U018,2024-01-04,EPI/uniforme não conforme,Média,Em tratativa,,,Carla Mendes
+RNC00259,U006,2025-07-01,Temperatura inadequada,Alta,Fechada,2025-07-02,1,Bruno Lima
+RNC00260,U002,2025-07-18,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-07-20,2,Julia Nogueira
+RNC00261,U014,2025-06-24,Praga/vetor identificado,Média,Fechada,2025-06-26,2,Helena Dias
+RNC00262,U008,2024-11-19,Temperatura inadequada,Baixa,Aberta,,,Carla Mendes
+RNC00263,U015,2024-11-29,Higienização inadequada,Média,Fechada,2024-12-08,9,Felipe Oliveira
+RNC00264,U013,2024-02-11,Rotulagem incorreta,Alta,Fechada,2024-02-19,8,Felipe Oliveira
+RNC00265,U008,2025-01-20,Cross contamination,Baixa,Aberta,,,Julia Nogueira
+RNC00266,U014,2024-06-11,Higienização inadequada,Crítica,Reincidente,2024-06-14,3,Julia Nogueira
+RNC00267,U024,2024-08-16,Praga/vetor identificado,Baixa,Fechada,2024-09-07,22,Helena Dias
+RNC00268,U001,2024-01-01,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2024-01-08,7,Diego Alves
+RNC00269,U019,2024-09-26,Fornecedor não homologado,Baixa,Fechada,2024-10-06,10,Elaine Rocha
+RNC00270,U018,2023-10-09,Praga/vetor identificado,Alta,Fechada,2023-10-17,8,Felipe Oliveira
+RNC00271,U025,2024-11-16,Validade vencida,Média,Em tratativa,,,Elaine Rocha
+RNC00272,U003,2024-10-30,Praga/vetor identificado,Média,Fechada,2024-11-10,11,Julia Nogueira
+RNC00273,U022,2025-06-17,Higienização inadequada,Baixa,Fechada,2025-07-04,17,Igor Santos
+RNC00274,U012,2024-02-25,Validade vencida,Baixa,Fechada,2024-03-07,11,Ana Souza
+RNC00275,U002,2023-11-09,EPI/uniforme não conforme,Baixa,Fechada,2023-11-17,8,Igor Santos
+RNC00276,U005,2024-08-31,Cross contamination,Crítica,Fechada,2024-09-04,4,Julia Nogueira
+RNC00277,U024,2024-08-02,EPI/uniforme não conforme,Média,Fechada,2024-08-05,3,Elaine Rocha
+RNC00278,U016,2023-10-18,Cross contamination,Média,Fechada,2023-10-25,7,Julia Nogueira
+RNC00279,U010,2025-07-06,EPI/uniforme não conforme,Baixa,Fechada,2025-07-06,0,Julia Nogueira
+RNC00280,U008,2023-11-22,EPI/uniforme não conforme,Média,Em tratativa,,,Gustavo Reis
+RNC00281,U005,2024-06-05,Higienização inadequada,Baixa,Aberta,,,Gustavo Reis
+RNC00282,U005,2024-11-26,EPI/uniforme não conforme,Média,Fechada,2024-12-03,7,Helena Dias
+RNC00283,U024,2023-12-03,Fornecedor não homologado,Alta,Reincidente,2023-12-04,1,Igor Santos
+RNC00284,U013,2024-08-17,Validade vencida,Crítica,Fechada,2024-08-19,2,Felipe Oliveira
+RNC00285,U018,2024-09-27,Praga/vetor identificado,Média,Fechada,2024-10-09,12,Julia Nogueira
+RNC00286,U016,2024-04-14,Praga/vetor identificado,Crítica,Fechada,2024-04-15,1,Diego Alves
+RNC00287,U010,2024-07-22,Validade vencida,Alta,Fechada,2024-07-25,3,Elaine Rocha
+RNC00288,U010,2024-02-02,Cross contamination,Média,Fechada,2024-02-05,3,Felipe Oliveira
+RNC00289,U025,2024-02-27,Fornecedor não homologado,Baixa,Fechada,2024-03-07,9,Elaine Rocha
+RNC00290,U024,2025-02-02,Praga/vetor identificado,Baixa,Fechada,2025-02-23,21,Igor Santos
+RNC00291,U023,2024-07-05,Validade vencida,Baixa,Em tratativa,,,Diego Alves
+RNC00292,U021,2024-05-26,Fornecedor não homologado,Baixa,Fechada,2024-06-01,6,Bruno Lima
+RNC00293,U022,2024-02-18,Fornecedor não homologado,Baixa,Fechada,2024-02-18,0,Helena Dias
+RNC00294,U021,2024-04-22,Praga/vetor identificado,Alta,Fechada,2024-04-25,3,Ana Souza
+RNC00295,U025,2023-12-31,Temperatura inadequada,Média,Fechada,2024-01-08,8,Carla Mendes
+RNC00296,U014,2024-03-29,Cross contamination,Crítica,Aberta,,,Helena Dias
+RNC00297,U006,2024-07-23,Higienização inadequada,Alta,Em tratativa,,,Elaine Rocha
+RNC00298,U015,2025-07-18,Falha em BPF,Média,Fechada,2025-07-26,8,Igor Santos
+RNC00299,U015,2024-07-06,Praga/vetor identificado,Baixa,Fechada,2024-07-20,14,Carla Mendes
+RNC00300,U001,2024-09-10,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-09-15,5,Carla Mendes
+RNC00301,U020,2025-07-16,Rotulagem incorreta,Alta,Aberta,,,Carla Mendes
+RNC00302,U005,2025-01-31,Praga/vetor identificado,Baixa,Em tratativa,,,Gustavo Reis
+RNC00303,U008,2024-12-31,Temperatura inadequada,Alta,Fechada,2025-01-07,7,Elaine Rocha
+RNC00304,U021,2024-10-03,Rotulagem incorreta,Média,Aberta,,,Helena Dias
+RNC00305,U010,2024-03-12,Praga/vetor identificado,Média,Fechada,2024-03-12,0,Bruno Lima
+RNC00306,U021,2024-07-29,Falha em BPF,Média,Em tratativa,,,Helena Dias
+RNC00307,U005,2025-01-08,Fornecedor não homologado,Alta,Fechada,2025-01-10,2,Igor Santos
+RNC00308,U022,2024-05-11,EPI/uniforme não conforme,Alta,Fechada,2024-05-14,3,Bruno Lima
+RNC00309,U017,2024-12-31,Validade vencida,Média,Em tratativa,,,Igor Santos
+RNC00310,U007,2025-05-09,Validade vencida,Média,Em tratativa,,,Helena Dias
+RNC00311,U004,2024-04-28,Temperatura inadequada,Alta,Fechada,2024-04-28,0,Helena Dias
+RNC00312,U005,2025-03-09,Validade vencida,Média,Fechada,2025-03-17,8,Helena Dias
+RNC00313,U022,2024-08-11,EPI/uniforme não conforme,Alta,Fechada,2024-08-12,1,Bruno Lima
+RNC00314,U002,2024-12-07,Temperatura inadequada,Baixa,Aberta,,,Bruno Lima
+RNC00315,U016,2023-11-02,Cross contamination,Baixa,Fechada,2023-11-15,13,Felipe Oliveira
+RNC00316,U013,2025-01-02,Cross contamination,Alta,Reincidente,2025-01-08,6,Bruno Lima
+RNC00317,U022,2025-04-05,Cross contamination,Baixa,Reincidente,2025-04-18,13,Igor Santos
+RNC00318,U005,2024-05-16,Praga/vetor identificado,Alta,Fechada,2024-05-20,4,Helena Dias
+RNC00319,U022,2025-04-10,Falha em BPF,Média,Fechada,2025-04-15,5,Elaine Rocha
+RNC00320,U007,2024-01-24,EPI/uniforme não conforme,Baixa,Fechada,2024-02-07,14,Ana Souza
+RNC00321,U008,2024-04-29,Temperatura inadequada,Baixa,Fechada,2024-05-05,6,Diego Alves
+RNC00322,U024,2023-11-15,Documentação incompleta (APPCC/HACCP),Média,Em tratativa,,,Ana Souza
+RNC00323,U005,2025-02-27,EPI/uniforme não conforme,Crítica,Fechada,2025-03-02,3,Julia Nogueira
+RNC00324,U025,2024-08-24,Validade vencida,Baixa,Fechada,2024-09-18,25,Diego Alves
+RNC00325,U014,2024-08-03,Falha em BPF,Baixa,Fechada,2024-08-07,4,Gustavo Reis
+RNC00326,U018,2025-02-19,Cross contamination,Baixa,Fechada,2025-02-28,9,Igor Santos
+RNC00327,U011,2024-11-30,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-12-07,7,Diego Alves
+RNC00328,U010,2024-02-25,Validade vencida,Alta,Reincidente,2024-03-02,6,Gustavo Reis
+RNC00329,U014,2025-04-23,Rotulagem incorreta,Média,Fechada,2025-04-28,5,Helena Dias
+RNC00330,U012,2024-01-03,Temperatura inadequada,Média,Fechada,2024-01-12,9,Elaine Rocha
+RNC00331,U013,2025-06-11,Validade vencida,Média,Fechada,2025-06-20,9,Diego Alves
+RNC00332,U016,2024-05-01,Temperatura inadequada,Alta,Fechada,2024-05-04,3,Diego Alves
+RNC00333,U007,2024-01-29,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-02-03,5,Gustavo Reis
+RNC00334,U008,2025-04-18,Fornecedor não homologado,Baixa,Fechada,2025-04-18,0,Igor Santos
+RNC00335,U021,2024-10-02,Fornecedor não homologado,Baixa,Fechada,2024-10-06,4,Felipe Oliveira
+RNC00336,U007,2024-10-14,Documentação incompleta (APPCC/HACCP),Baixa,Aberta,,,Carla Mendes
+RNC00337,U001,2024-06-24,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-06-26,2,Felipe Oliveira
+RNC00338,U008,2024-10-23,Validade vencida,Média,Em tratativa,,,Felipe Oliveira
+RNC00339,U009,2025-02-12,Higienização inadequada,Crítica,Em tratativa,,,Carla Mendes
+RNC00340,U005,2025-04-12,Validade vencida,Média,Reincidente,2025-04-16,4,Ana Souza
+RNC00341,U017,2023-11-04,Temperatura inadequada,Alta,Aberta,,,Gustavo Reis
+RNC00342,U005,2025-07-07,Temperatura inadequada,Baixa,Fechada,2025-07-23,16,Diego Alves
+RNC00343,U017,2025-01-09,Fornecedor não homologado,Média,Fechada,2025-01-12,3,Helena Dias
+RNC00344,U001,2023-10-07,Temperatura inadequada,Média,Fechada,2023-10-10,3,Igor Santos
+RNC00345,U024,2024-07-08,Cross contamination,Média,Fechada,2024-07-14,6,Carla Mendes
+RNC00346,U004,2024-01-07,EPI/uniforme não conforme,Média,Em tratativa,,,Igor Santos
+RNC00347,U009,2024-09-27,EPI/uniforme não conforme,Baixa,Fechada,2024-10-04,7,Diego Alves
+RNC00348,U023,2024-05-19,Rotulagem incorreta,Baixa,Fechada,2024-06-03,15,Ana Souza
+RNC00349,U003,2024-11-19,Falha em BPF,Média,Aberta,,,Bruno Lima
+RNC00350,U016,2024-12-18,Rotulagem incorreta,Média,Fechada,2024-12-25,7,Igor Santos
+RNC00351,U002,2024-05-23,Temperatura inadequada,Baixa,Fechada,2024-06-12,20,Bruno Lima
+RNC00352,U022,2024-07-14,Temperatura inadequada,Alta,Fechada,2024-07-15,1,Carla Mendes
+RNC00353,U011,2023-10-17,Cross contamination,Crítica,Fechada,2023-10-17,0,Bruno Lima
+RNC00354,U010,2024-03-15,Cross contamination,Média,Fechada,2024-03-19,4,Igor Santos
+RNC00355,U011,2024-10-28,Validade vencida,Alta,Fechada,2024-11-06,9,Felipe Oliveira
+RNC00356,U002,2024-01-09,Higienização inadequada,Média,Fechada,2024-01-26,17,Julia Nogueira
+RNC00357,U025,2025-06-20,Praga/vetor identificado,Crítica,Aberta,,,Helena Dias
+RNC00358,U016,2024-05-21,Cross contamination,Média,Reincidente,2024-06-02,12,Carla Mendes
+RNC00359,U022,2025-05-22,Rotulagem incorreta,Média,Fechada,2025-06-03,12,Bruno Lima
+RNC00360,U009,2024-03-06,Falha em BPF,Média,Fechada,2024-03-16,10,Gustavo Reis
+RNC00361,U011,2024-10-04,Praga/vetor identificado,Baixa,Fechada,2024-10-21,17,Bruno Lima
+RNC00362,U005,2023-12-29,Validade vencida,Baixa,Fechada,2024-01-10,12,Igor Santos
+RNC00363,U014,2024-01-14,Higienização inadequada,Baixa,Fechada,2024-01-24,10,Gustavo Reis
+RNC00364,U001,2024-07-25,Validade vencida,Média,Fechada,2024-08-03,9,Diego Alves
+RNC00365,U019,2025-03-17,Fornecedor não homologado,Baixa,Fechada,2025-03-26,9,Carla Mendes
+RNC00366,U003,2024-03-20,Fornecedor não homologado,Média,Fechada,2024-03-29,9,Bruno Lima
+RNC00367,U012,2024-06-14,Fornecedor não homologado,Crítica,Fechada,2024-06-16,2,Bruno Lima
+RNC00368,U005,2024-08-07,EPI/uniforme não conforme,Baixa,Fechada,2024-08-12,5,Gustavo Reis
+RNC00369,U011,2024-12-24,Falha em BPF,Baixa,Reincidente,2025-01-09,16,Elaine Rocha
+RNC00370,U011,2025-06-09,Higienização inadequada,Crítica,Em tratativa,,,Carla Mendes
+RNC00371,U013,2024-08-22,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-08-31,9,Felipe Oliveira
+RNC00372,U013,2024-07-14,Rotulagem incorreta,Alta,Fechada,2024-07-16,2,Julia Nogueira
+RNC00373,U007,2025-05-29,Fornecedor não homologado,Crítica,Aberta,,,Diego Alves
+RNC00374,U015,2024-07-25,Cross contamination,Alta,Aberta,,,Helena Dias
+RNC00375,U005,2025-07-10,Cross contamination,Baixa,Fechada,2025-07-21,11,Bruno Lima
+RNC00376,U015,2025-06-04,Validade vencida,Média,Fechada,2025-06-14,10,Gustavo Reis
+RNC00377,U018,2023-11-07,Rotulagem incorreta,Alta,Fechada,2023-11-08,1,Bruno Lima
+RNC00378,U025,2024-06-11,EPI/uniforme não conforme,Média,Fechada,2024-06-25,14,Ana Souza
+RNC00379,U019,2025-07-22,Cross contamination,Média,Reincidente,2025-07-24,2,Bruno Lima
+RNC00380,U001,2024-01-09,Validade vencida,Baixa,Fechada,2024-01-26,17,Igor Santos
+RNC00381,U019,2025-05-12,Validade vencida,Baixa,Fechada,2025-05-19,7,Carla Mendes
+RNC00382,U012,2023-10-26,Rotulagem incorreta,Média,Fechada,2023-11-06,11,Bruno Lima
+RNC00383,U024,2024-02-23,Higienização inadequada,Baixa,Fechada,2024-02-29,6,Helena Dias
+RNC00384,U004,2024-12-22,Rotulagem incorreta,Alta,Fechada,2024-12-30,8,Elaine Rocha
+RNC00385,U002,2024-01-26,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-02-05,10,Igor Santos
+RNC00386,U006,2025-04-18,Fornecedor não homologado,Baixa,Fechada,2025-05-02,14,Diego Alves
+RNC00387,U013,2025-07-06,EPI/uniforme não conforme,Baixa,Aberta,,,Diego Alves
+RNC00388,U015,2025-05-29,Documentação incompleta (APPCC/HACCP),Média,Aberta,,,Diego Alves
+RNC00389,U009,2023-12-04,Documentação incompleta (APPCC/HACCP),Média,Fechada,2023-12-13,9,Helena Dias
+RNC00390,U004,2024-06-25,Higienização inadequada,Média,Fechada,2024-06-28,3,Julia Nogueira
+RNC00391,U013,2025-06-17,Falha em BPF,Média,Fechada,2025-06-27,10,Elaine Rocha
+RNC00392,U020,2025-05-27,Rotulagem incorreta,Baixa,Em tratativa,,,Diego Alves
+RNC00393,U010,2024-01-28,Falha em BPF,Baixa,Fechada,2024-02-06,9,Julia Nogueira
+RNC00394,U013,2024-12-07,Falha em BPF,Baixa,Fechada,2024-12-12,5,Igor Santos
+RNC00395,U006,2025-02-13,Higienização inadequada,Baixa,Fechada,2025-03-01,16,Ana Souza
+RNC00396,U016,2024-02-17,Validade vencida,Baixa,Fechada,2024-03-10,22,Igor Santos
+RNC00397,U021,2025-02-18,Falha em BPF,Média,Fechada,2025-02-19,1,Bruno Lima
+RNC00398,U019,2023-11-01,Temperatura inadequada,Alta,Em tratativa,,,Elaine Rocha
+RNC00399,U008,2025-04-03,Fornecedor não homologado,Baixa,Fechada,2025-04-16,13,Igor Santos
+RNC00400,U017,2024-01-24,Validade vencida,Média,Fechada,2024-01-26,2,Felipe Oliveira
+RNC00401,U018,2023-11-12,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2023-11-15,3,Elaine Rocha
+RNC00402,U002,2025-01-03,Rotulagem incorreta,Baixa,Fechada,2025-01-16,13,Helena Dias
+RNC00403,U004,2024-05-30,EPI/uniforme não conforme,Baixa,Fechada,2024-06-10,11,Gustavo Reis
+RNC00404,U006,2025-06-22,Documentação incompleta (APPCC/HACCP),Baixa,Em tratativa,,,Ana Souza
+RNC00405,U019,2024-09-24,Praga/vetor identificado,Média,Reincidente,2024-09-30,6,Elaine Rocha
+RNC00406,U019,2024-06-30,Rotulagem incorreta,Crítica,Fechada,2024-07-02,2,Carla Mendes
+RNC00407,U025,2024-11-25,Falha em BPF,Alta,Em tratativa,,,Diego Alves
+RNC00408,U005,2024-08-25,Cross contamination,Alta,Fechada,2024-08-29,4,Helena Dias
+RNC00409,U005,2025-05-14,Rotulagem incorreta,Média,Aberta,,,Gustavo Reis
+RNC00410,U017,2024-07-11,Fornecedor não homologado,Média,Fechada,2024-07-16,5,Helena Dias
+RNC00411,U011,2025-05-18,Fornecedor não homologado,Baixa,Fechada,2025-05-31,13,Felipe Oliveira
+RNC00412,U003,2025-03-31,Documentação incompleta (APPCC/HACCP),Média,Reincidente,2025-04-01,1,Helena Dias
+RNC00413,U009,2024-08-26,Fornecedor não homologado,Alta,Fechada,2024-08-29,3,Felipe Oliveira
+RNC00414,U022,2023-11-19,Fornecedor não homologado,Baixa,Fechada,2023-12-07,18,Ana Souza
+RNC00415,U004,2024-03-10,Falha em BPF,Média,Em tratativa,,,Elaine Rocha
+RNC00416,U006,2024-07-07,Rotulagem incorreta,Baixa,Fechada,2024-07-19,12,Felipe Oliveira
+RNC00417,U022,2025-07-26,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-08-02,7,Gustavo Reis
+RNC00418,U021,2024-01-02,Fornecedor não homologado,Alta,Aberta,,,Bruno Lima
+RNC00419,U005,2025-05-30,Rotulagem incorreta,Baixa,Fechada,2025-06-10,11,Gustavo Reis
+RNC00420,U023,2024-02-13,Rotulagem incorreta,Média,Em tratativa,,,Bruno Lima
+RNC00421,U004,2024-08-16,Falha em BPF,Média,Fechada,2024-08-22,6,Carla Mendes
+RNC00422,U003,2025-03-27,Falha em BPF,Média,Fechada,2025-04-07,11,Helena Dias
+RNC00423,U012,2024-05-06,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-05-16,10,Bruno Lima
+RNC00424,U004,2024-02-21,Cross contamination,Alta,Fechada,2024-02-28,7,Felipe Oliveira
+RNC00425,U014,2024-08-18,EPI/uniforme não conforme,Alta,Em tratativa,,,Julia Nogueira
+RNC00426,U024,2025-06-14,Temperatura inadequada,Baixa,Reincidente,2025-07-04,20,Elaine Rocha
+RNC00427,U007,2025-03-14,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-03-23,9,Helena Dias
+RNC00428,U013,2024-01-24,Rotulagem incorreta,Baixa,Fechada,2024-02-10,17,Igor Santos
+RNC00429,U001,2024-10-04,Higienização inadequada,Crítica,Fechada,2024-10-09,5,Igor Santos
+RNC00430,U022,2024-03-25,Rotulagem incorreta,Alta,Reincidente,2024-04-02,8,Ana Souza
+RNC00431,U019,2023-12-09,Cross contamination,Baixa,Reincidente,2023-12-23,14,Igor Santos
+RNC00432,U010,2025-07-05,Cross contamination,Alta,Fechada,2025-07-15,10,Gustavo Reis
+RNC00433,U003,2025-07-17,Validade vencida,Média,Fechada,2025-07-22,5,Diego Alves
+RNC00434,U005,2025-04-02,Rotulagem incorreta,Baixa,Fechada,2025-04-10,8,Elaine Rocha
+RNC00435,U023,2024-12-21,Cross contamination,Alta,Aberta,,,Bruno Lima
+RNC00436,U015,2025-06-18,Falha em BPF,Média,Fechada,2025-06-24,6,Bruno Lima
+RNC00437,U001,2024-02-18,Praga/vetor identificado,Alta,Fechada,2024-02-26,8,Carla Mendes
+RNC00438,U012,2024-02-07,Rotulagem incorreta,Alta,Fechada,2024-02-17,10,Ana Souza
+RNC00439,U011,2024-12-13,Rotulagem incorreta,Baixa,Fechada,2025-01-02,20,Helena Dias
+RNC00440,U015,2025-03-07,EPI/uniforme não conforme,Média,Fechada,2025-03-17,10,Carla Mendes
+RNC00441,U012,2024-03-10,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-03-28,18,Igor Santos
+RNC00442,U001,2023-11-15,Temperatura inadequada,Alta,Aberta,,,Helena Dias
+RNC00443,U012,2024-10-27,Cross contamination,Crítica,Aberta,,,Diego Alves
+RNC00444,U011,2024-06-11,Praga/vetor identificado,Média,Fechada,2024-06-28,17,Bruno Lima
+RNC00445,U019,2024-10-16,Validade vencida,Baixa,Em tratativa,,,Ana Souza
+RNC00446,U013,2023-12-10,Praga/vetor identificado,Alta,Fechada,2023-12-14,4,Felipe Oliveira
+RNC00447,U003,2025-04-19,EPI/uniforme não conforme,Média,Fechada,2025-04-24,5,Diego Alves
+RNC00448,U015,2024-10-12,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-10-22,10,Igor Santos
+RNC00449,U025,2024-06-08,Temperatura inadequada,Baixa,Fechada,2024-06-21,13,Felipe Oliveira
+RNC00450,U001,2024-10-20,Rotulagem incorreta,Alta,Fechada,2024-10-24,4,Diego Alves
+RNC00451,U017,2024-05-31,Praga/vetor identificado,Média,Em tratativa,,,Bruno Lima
+RNC00452,U002,2024-05-25,Higienização inadequada,Alta,Fechada,2024-05-28,3,Helena Dias
+RNC00453,U024,2023-12-26,EPI/uniforme não conforme,Média,Fechada,2023-12-28,2,Julia Nogueira
+RNC00454,U002,2024-12-19,Praga/vetor identificado,Média,Em tratativa,,,Elaine Rocha
+RNC00455,U011,2024-11-06,Rotulagem incorreta,Alta,Fechada,2024-11-10,4,Diego Alves
+RNC00456,U005,2025-05-21,Fornecedor não homologado,Baixa,Em tratativa,,,Helena Dias
+RNC00457,U011,2024-11-20,Fornecedor não homologado,Baixa,Fechada,2024-11-25,5,Elaine Rocha
+RNC00458,U004,2024-01-01,EPI/uniforme não conforme,Baixa,Fechada,2024-01-21,20,Ana Souza
+RNC00459,U007,2024-08-31,Temperatura inadequada,Baixa,Fechada,2024-09-08,8,Elaine Rocha
+RNC00460,U009,2024-03-27,Fornecedor não homologado,Baixa,Fechada,2024-03-27,0,Igor Santos
+RNC00461,U024,2025-04-16,Temperatura inadequada,Baixa,Em tratativa,,,Ana Souza
+RNC00462,U025,2024-05-15,Higienização inadequada,Baixa,Fechada,2024-05-29,14,Bruno Lima
+RNC00463,U019,2025-05-23,Fornecedor não homologado,Baixa,Aberta,,,Carla Mendes
+RNC00464,U003,2024-09-04,Temperatura inadequada,Baixa,Reincidente,2024-09-14,10,Carla Mendes
+RNC00465,U019,2024-12-17,Falha em BPF,Alta,Fechada,2024-12-21,4,Felipe Oliveira
+RNC00466,U007,2024-04-09,Falha em BPF,Baixa,Fechada,2024-04-21,12,Ana Souza
+RNC00467,U020,2025-06-26,Fornecedor não homologado,Média,Fechada,2025-07-01,5,Ana Souza
+RNC00468,U003,2024-07-13,Validade vencida,Média,Fechada,2024-07-17,4,Diego Alves
+RNC00469,U021,2025-04-09,Validade vencida,Alta,Fechada,2025-04-18,9,Helena Dias
+RNC00470,U012,2025-05-02,Falha em BPF,Média,Fechada,2025-05-09,7,Ana Souza
+RNC00471,U011,2025-06-03,Fornecedor não homologado,Baixa,Aberta,,,Igor Santos
+RNC00472,U012,2025-05-21,Rotulagem incorreta,Crítica,Reincidente,2025-05-22,1,Diego Alves
+RNC00473,U022,2024-06-03,Documentação incompleta (APPCC/HACCP),Baixa,Aberta,,,Julia Nogueira
+RNC00474,U013,2024-09-28,Falha em BPF,Crítica,Reincidente,2024-09-28,0,Carla Mendes
+RNC00475,U008,2025-05-29,Higienização inadequada,Baixa,Fechada,2025-06-09,11,Julia Nogueira
+RNC00476,U019,2024-02-23,Fornecedor não homologado,Média,Em tratativa,,,Igor Santos
+RNC00477,U010,2024-03-28,Validade vencida,Média,Em tratativa,,,Helena Dias
+RNC00478,U001,2024-09-04,Falha em BPF,Alta,Em tratativa,,,Felipe Oliveira
+RNC00479,U023,2024-03-30,EPI/uniforme não conforme,Alta,Aberta,,,Carla Mendes
+RNC00480,U025,2024-01-22,Rotulagem incorreta,Alta,Fechada,2024-01-25,3,Felipe Oliveira
+RNC00481,U023,2024-11-09,Cross contamination,Média,Reincidente,2024-11-15,6,Helena Dias
+RNC00482,U021,2024-08-20,EPI/uniforme não conforme,Baixa,Reincidente,2024-09-05,16,Felipe Oliveira
+RNC00483,U008,2025-05-26,Falha em BPF,Alta,Fechada,2025-05-28,2,Ana Souza
+RNC00484,U023,2025-05-09,EPI/uniforme não conforme,Média,Reincidente,2025-05-21,12,Ana Souza
+RNC00485,U006,2025-06-08,Rotulagem incorreta,Baixa,Fechada,2025-06-22,14,Helena Dias
+RNC00486,U005,2024-09-04,Higienização inadequada,Alta,Em tratativa,,,Carla Mendes
+RNC00487,U021,2023-12-30,Temperatura inadequada,Alta,Fechada,2024-01-02,3,Elaine Rocha
+RNC00488,U007,2024-06-12,Rotulagem incorreta,Média,Fechada,2024-06-14,2,Ana Souza
+RNC00489,U002,2024-10-30,Cross contamination,Média,Fechada,2024-11-04,5,Felipe Oliveira
+RNC00490,U018,2024-10-19,EPI/uniforme não conforme,Baixa,Fechada,2024-11-01,13,Diego Alves
+RNC00491,U006,2025-01-05,Rotulagem incorreta,Baixa,Fechada,2025-01-19,14,Bruno Lima
+RNC00492,U011,2024-03-23,Rotulagem incorreta,Alta,Em tratativa,,,Igor Santos
+RNC00493,U003,2024-09-11,Falha em BPF,Média,Aberta,,,Julia Nogueira
+RNC00494,U014,2024-03-09,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-03-16,7,Gustavo Reis
+RNC00495,U023,2025-04-20,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-04-24,4,Bruno Lima
+RNC00496,U002,2024-11-06,Falha em BPF,Média,Fechada,2024-11-10,4,Ana Souza
+RNC00497,U012,2023-10-04,Documentação incompleta (APPCC/HACCP),Média,Fechada,2023-10-10,6,Bruno Lima
+RNC00498,U001,2024-04-29,Rotulagem incorreta,Baixa,Fechada,2024-05-19,20,Helena Dias
+RNC00499,U004,2024-08-11,Validade vencida,Alta,Fechada,2024-08-11,0,Gustavo Reis
+RNC00500,U006,2024-10-14,Fornecedor não homologado,Alta,Fechada,2024-10-19,5,Ana Souza
+RNC00501,U009,2024-12-24,Rotulagem incorreta,Média,Aberta,,,Bruno Lima
+RNC00502,U022,2024-09-17,EPI/uniforme não conforme,Alta,Fechada,2024-09-23,6,Diego Alves
+RNC00503,U018,2023-12-02,Fornecedor não homologado,Alta,Fechada,2023-12-08,6,Julia Nogueira
+RNC00504,U008,2025-01-30,Temperatura inadequada,Baixa,Fechada,2025-02-05,6,Igor Santos
+RNC00505,U019,2025-03-13,Fornecedor não homologado,Alta,Em tratativa,,,Carla Mendes
+RNC00506,U006,2024-05-04,Cross contamination,Alta,Em tratativa,,,Bruno Lima
+RNC00507,U022,2024-12-19,Higienização inadequada,Baixa,Fechada,2025-01-01,13,Bruno Lima
+RNC00508,U003,2024-11-01,Praga/vetor identificado,Média,Fechada,2024-11-06,5,Igor Santos
+RNC00509,U015,2023-10-13,Cross contamination,Alta,Fechada,2023-10-15,2,Carla Mendes
+RNC00510,U005,2025-05-03,Rotulagem incorreta,Média,Fechada,2025-05-07,4,Bruno Lima
+RNC00511,U019,2024-01-12,Praga/vetor identificado,Alta,Fechada,2024-01-20,8,Gustavo Reis
+RNC00512,U021,2025-02-09,Falha em BPF,Média,Fechada,2025-02-10,1,Elaine Rocha
+RNC00513,U013,2024-02-25,Higienização inadequada,Média,Fechada,2024-03-02,6,Diego Alves
+RNC00514,U002,2025-01-29,Temperatura inadequada,Crítica,Fechada,2025-01-30,1,Felipe Oliveira
+RNC00515,U010,2024-08-14,Documentação incompleta (APPCC/HACCP),Baixa,Aberta,,,Carla Mendes
+RNC00516,U010,2024-12-27,Cross contamination,Alta,Fechada,2025-01-01,5,Julia Nogueira
+RNC00517,U021,2023-12-31,Validade vencida,Baixa,Fechada,2024-01-14,14,Felipe Oliveira
+RNC00518,U002,2025-03-11,Validade vencida,Alta,Aberta,,,Gustavo Reis
+RNC00519,U005,2025-03-20,Temperatura inadequada,Alta,Fechada,2025-03-26,6,Diego Alves
+RNC00520,U002,2025-01-10,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-01-22,12,Elaine Rocha
+RNC00521,U012,2025-01-18,Higienização inadequada,Média,Aberta,,,Helena Dias
+RNC00522,U020,2024-12-30,EPI/uniforme não conforme,Baixa,Fechada,2025-01-08,9,Igor Santos
+RNC00523,U012,2024-09-17,Praga/vetor identificado,Baixa,Fechada,2024-10-06,19,Ana Souza
+RNC00524,U013,2023-11-20,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2023-11-25,5,Diego Alves
+RNC00525,U021,2024-05-18,Temperatura inadequada,Média,Aberta,,,Helena Dias
+RNC00526,U005,2025-07-24,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-08-11,18,Elaine Rocha
+RNC00527,U020,2024-08-08,Higienização inadequada,Alta,Fechada,2024-08-12,4,Helena Dias
+RNC00528,U009,2024-05-11,EPI/uniforme não conforme,Média,Fechada,2024-05-15,4,Gustavo Reis
+RNC00529,U019,2024-01-13,Validade vencida,Baixa,Fechada,2024-02-09,27,Julia Nogueira
+RNC00530,U020,2024-07-16,Rotulagem incorreta,Baixa,Em tratativa,,,Felipe Oliveira
+RNC00531,U009,2025-07-17,Praga/vetor identificado,Baixa,Reincidente,2025-07-27,10,Diego Alves
+RNC00532,U005,2025-03-13,EPI/uniforme não conforme,Alta,Fechada,2025-03-21,8,Gustavo Reis
+RNC00533,U022,2024-08-23,Praga/vetor identificado,Média,Reincidente,2024-08-29,6,Gustavo Reis
+RNC00534,U013,2024-11-01,EPI/uniforme não conforme,Alta,Fechada,2024-11-02,1,Diego Alves
+RNC00535,U011,2024-05-15,Higienização inadequada,Média,Reincidente,2024-05-20,5,Igor Santos
+RNC00536,U010,2024-03-23,Falha em BPF,Alta,Fechada,2024-03-25,2,Elaine Rocha
+RNC00537,U004,2025-01-25,Falha em BPF,Baixa,Fechada,2025-02-05,11,Felipe Oliveira
+RNC00538,U021,2023-12-31,Praga/vetor identificado,Baixa,Em tratativa,,,Gustavo Reis
+RNC00539,U011,2024-10-15,EPI/uniforme não conforme,Baixa,Fechada,2024-10-23,8,Julia Nogueira
+RNC00540,U020,2023-12-12,Rotulagem incorreta,Média,Em tratativa,,,Gustavo Reis
+RNC00541,U017,2024-08-01,Higienização inadequada,Média,Reincidente,2024-08-10,9,Gustavo Reis
+RNC00542,U019,2025-01-11,Falha em BPF,Baixa,Fechada,2025-01-20,9,Bruno Lima
+RNC00543,U016,2024-09-05,Praga/vetor identificado,Média,Aberta,,,Diego Alves
+RNC00544,U025,2024-03-21,Rotulagem incorreta,Média,Em tratativa,,,Carla Mendes
+RNC00545,U020,2024-12-18,Temperatura inadequada,Média,Fechada,2024-12-18,0,Igor Santos
+RNC00546,U007,2024-10-17,Validade vencida,Crítica,Fechada,2024-10-22,5,Diego Alves
+RNC00547,U001,2023-10-05,Falha em BPF,Média,Fechada,2023-10-13,8,Bruno Lima
+RNC00548,U013,2025-02-27,Temperatura inadequada,Média,Em tratativa,,,Elaine Rocha
+RNC00549,U010,2025-01-09,Falha em BPF,Alta,Fechada,2025-01-12,3,Felipe Oliveira
+RNC00550,U016,2024-10-02,Cross contamination,Alta,Em tratativa,,,Ana Souza
+RNC00551,U008,2024-05-17,Falha em BPF,Alta,Fechada,2024-05-24,7,Bruno Lima
+RNC00552,U012,2025-07-28,Praga/vetor identificado,Alta,Fechada,2025-08-04,7,Igor Santos
+RNC00553,U020,2023-11-19,Temperatura inadequada,Média,Fechada,2023-11-28,9,Bruno Lima
+RNC00554,U014,2024-12-28,Fornecedor não homologado,Média,Fechada,2025-01-05,8,Carla Mendes
+RNC00555,U007,2025-07-07,EPI/uniforme não conforme,Baixa,Fechada,2025-07-16,9,Julia Nogueira
+RNC00556,U023,2024-02-18,Validade vencida,Média,Fechada,2024-02-26,8,Julia Nogueira
+RNC00557,U004,2024-07-16,Praga/vetor identificado,Baixa,Em tratativa,,,Igor Santos
+RNC00558,U007,2024-10-01,Temperatura inadequada,Alta,Fechada,2024-10-07,6,Igor Santos
+RNC00559,U016,2024-04-30,Rotulagem incorreta,Média,Aberta,,,Bruno Lima
+RNC00560,U019,2025-02-17,Validade vencida,Baixa,Aberta,,,Bruno Lima
+RNC00561,U024,2024-01-12,Praga/vetor identificado,Alta,Reincidente,2024-01-15,3,Helena Dias
+RNC00562,U002,2024-01-11,Praga/vetor identificado,Alta,Fechada,2024-01-13,2,Felipe Oliveira
+RNC00563,U022,2024-08-16,Temperatura inadequada,Média,Fechada,2024-08-29,13,Carla Mendes
+RNC00564,U022,2025-07-24,Fornecedor não homologado,Baixa,Fechada,2025-08-12,19,Julia Nogueira
+RNC00565,U009,2024-01-04,Fornecedor não homologado,Média,Fechada,2024-01-10,6,Elaine Rocha
+RNC00566,U013,2025-02-01,Falha em BPF,Alta,Fechada,2025-02-07,6,Bruno Lima
+RNC00567,U005,2023-11-30,Fornecedor não homologado,Crítica,Reincidente,2023-12-03,3,Julia Nogueira
+RNC00568,U022,2024-12-22,Higienização inadequada,Baixa,Fechada,2024-12-31,9,Julia Nogueira
+RNC00569,U001,2024-02-11,Rotulagem incorreta,Média,Fechada,2024-02-11,0,Elaine Rocha
+RNC00570,U021,2024-08-17,Validade vencida,Baixa,Fechada,2024-08-29,12,Julia Nogueira
+RNC00571,U024,2025-05-01,EPI/uniforme não conforme,Baixa,Fechada,2025-05-24,23,Bruno Lima
+RNC00572,U014,2024-06-11,Cross contamination,Média,Fechada,2024-06-16,5,Carla Mendes
+RNC00573,U018,2025-06-19,Fornecedor não homologado,Baixa,Fechada,2025-06-28,9,Carla Mendes
+RNC00574,U003,2025-02-15,Praga/vetor identificado,Baixa,Fechada,2025-02-24,9,Ana Souza
+RNC00575,U017,2024-05-16,Fornecedor não homologado,Média,Aberta,,,Julia Nogueira
+RNC00576,U015,2023-12-30,Rotulagem incorreta,Alta,Fechada,2024-01-07,8,Helena Dias
+RNC00577,U024,2025-07-31,Rotulagem incorreta,Baixa,Fechada,2025-08-10,10,Julia Nogueira
+RNC00578,U020,2025-07-14,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-07-26,12,Helena Dias
+RNC00579,U011,2024-10-07,EPI/uniforme não conforme,Alta,Fechada,2024-10-13,6,Julia Nogueira
+RNC00580,U016,2024-10-07,Documentação incompleta (APPCC/HACCP),Alta,Em tratativa,,,Ana Souza
+RNC00581,U011,2024-09-28,Rotulagem incorreta,Alta,Fechada,2024-10-05,7,Ana Souza
+RNC00582,U006,2025-02-16,Cross contamination,Baixa,Fechada,2025-02-26,10,Bruno Lima
+RNC00583,U009,2025-06-17,Documentação incompleta (APPCC/HACCP),Baixa,Em tratativa,,,Felipe Oliveira
+RNC00584,U004,2024-11-28,EPI/uniforme não conforme,Baixa,Fechada,2024-12-18,20,Bruno Lima
+RNC00585,U025,2025-01-04,Temperatura inadequada,Média,Reincidente,2025-01-07,3,Igor Santos
+RNC00586,U024,2023-11-19,EPI/uniforme não conforme,Média,Fechada,2023-11-24,5,Helena Dias
+RNC00587,U017,2024-03-30,EPI/uniforme não conforme,Média,Em tratativa,,,Julia Nogueira
+RNC00588,U011,2025-02-28,EPI/uniforme não conforme,Alta,Fechada,2025-03-09,9,Diego Alves
+RNC00589,U009,2024-11-11,Cross contamination,Crítica,Em tratativa,,,Julia Nogueira
+RNC00590,U023,2025-03-08,Higienização inadequada,Baixa,Fechada,2025-03-18,10,Igor Santos
+RNC00591,U021,2024-05-10,Falha em BPF,Baixa,Fechada,2024-05-18,8,Carla Mendes
+RNC00592,U017,2025-04-08,Rotulagem incorreta,Média,Fechada,2025-04-13,5,Felipe Oliveira
+RNC00593,U018,2025-02-03,Validade vencida,Média,Fechada,2025-02-16,13,Elaine Rocha
+RNC00594,U014,2023-10-14,Falha em BPF,Média,Aberta,,,Ana Souza
+RNC00595,U022,2023-11-27,Praga/vetor identificado,Baixa,Fechada,2023-12-09,12,Carla Mendes
+RNC00596,U002,2024-07-29,Higienização inadequada,Baixa,Fechada,2024-08-06,8,Helena Dias
+RNC00597,U004,2025-06-22,Validade vencida,Alta,Fechada,2025-06-26,4,Gustavo Reis
+RNC00598,U008,2025-03-07,Praga/vetor identificado,Alta,Fechada,2025-03-07,0,Ana Souza
+RNC00599,U013,2024-10-31,Temperatura inadequada,Média,Reincidente,2024-11-09,9,Ana Souza
+RNC00600,U024,2024-06-14,Fornecedor não homologado,Baixa,Fechada,2024-06-17,3,Diego Alves
+RNC00601,U021,2025-07-25,Documentação incompleta (APPCC/HACCP),Média,Em tratativa,,,Elaine Rocha
+RNC00602,U015,2024-03-30,Falha em BPF,Crítica,Aberta,,,Igor Santos
+RNC00603,U004,2024-10-21,Praga/vetor identificado,Baixa,Em tratativa,,,Ana Souza
+RNC00604,U011,2025-01-20,Falha em BPF,Alta,Em tratativa,,,Felipe Oliveira
+RNC00605,U020,2023-11-22,EPI/uniforme não conforme,Alta,Fechada,2023-11-23,1,Igor Santos
+RNC00606,U012,2023-12-14,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2023-12-15,1,Carla Mendes
+RNC00607,U017,2023-12-09,Higienização inadequada,Alta,Fechada,2023-12-15,6,Diego Alves
+RNC00608,U007,2024-09-04,EPI/uniforme não conforme,Baixa,Fechada,2024-09-22,18,Igor Santos
+RNC00609,U016,2025-04-27,Fornecedor não homologado,Alta,Fechada,2025-05-02,5,Diego Alves
+RNC00610,U021,2025-06-20,Temperatura inadequada,Alta,Em tratativa,,,Felipe Oliveira
+RNC00611,U013,2024-01-25,Higienização inadequada,Média,Reincidente,2024-01-29,4,Igor Santos
+RNC00612,U017,2024-12-30,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-01-06,7,Felipe Oliveira
+RNC00613,U017,2023-12-24,Temperatura inadequada,Crítica,Fechada,2023-12-28,4,Bruno Lima
+RNC00614,U007,2025-07-06,Cross contamination,Alta,Fechada,2025-07-16,10,Bruno Lima
+RNC00615,U007,2025-04-03,Rotulagem incorreta,Alta,Fechada,2025-04-10,7,Carla Mendes
+RNC00616,U001,2025-01-13,Rotulagem incorreta,Alta,Aberta,,,Ana Souza
+RNC00617,U006,2024-06-14,Cross contamination,Média,Fechada,2024-06-19,5,Helena Dias
+RNC00618,U021,2024-11-18,Rotulagem incorreta,Média,Aberta,,,Igor Santos
+RNC00619,U001,2025-07-18,Rotulagem incorreta,Alta,Aberta,,,Felipe Oliveira
+RNC00620,U017,2024-01-17,EPI/uniforme não conforme,Baixa,Fechada,2024-02-01,15,Bruno Lima
+RNC00621,U010,2024-12-22,Documentação incompleta (APPCC/HACCP),Média,Em tratativa,,,Carla Mendes
+RNC00622,U024,2024-11-04,Praga/vetor identificado,Alta,Fechada,2024-11-08,4,Carla Mendes
+RNC00623,U010,2025-07-25,Rotulagem incorreta,Média,Fechada,2025-08-06,12,Ana Souza
+RNC00624,U001,2025-05-09,Rotulagem incorreta,Média,Fechada,2025-05-15,6,Elaine Rocha
+RNC00625,U007,2024-09-17,Falha em BPF,Baixa,Em tratativa,,,Diego Alves
+RNC00626,U020,2024-06-15,EPI/uniforme não conforme,Baixa,Em tratativa,,,Ana Souza
+RNC00627,U025,2025-04-15,Rotulagem incorreta,Média,Aberta,,,Diego Alves
+RNC00628,U024,2025-05-17,Falha em BPF,Média,Fechada,2025-05-23,6,Diego Alves
+RNC00629,U004,2024-07-18,EPI/uniforme não conforme,Média,Fechada,2024-07-28,10,Elaine Rocha
+RNC00630,U023,2025-05-21,Higienização inadequada,Baixa,Fechada,2025-05-29,8,Gustavo Reis
+RNC00631,U006,2023-10-05,Praga/vetor identificado,Baixa,Fechada,2023-10-19,14,Felipe Oliveira
+RNC00632,U005,2024-09-04,Higienização inadequada,Alta,Fechada,2024-09-05,1,Elaine Rocha
+RNC00633,U016,2025-04-17,Falha em BPF,Baixa,Fechada,2025-04-27,10,Igor Santos
+RNC00634,U007,2024-06-26,Rotulagem incorreta,Alta,Fechada,2024-06-30,4,Ana Souza
+RNC00635,U017,2025-07-08,Temperatura inadequada,Baixa,Fechada,2025-07-14,6,Igor Santos
+RNC00636,U009,2025-04-09,Falha em BPF,Alta,Fechada,2025-04-12,3,Felipe Oliveira
+RNC00637,U013,2024-05-16,Validade vencida,Alta,Em tratativa,,,Igor Santos
+RNC00638,U003,2024-11-10,Documentação incompleta (APPCC/HACCP),Média,Aberta,,,Julia Nogueira
+RNC00639,U022,2024-03-18,EPI/uniforme não conforme,Alta,Fechada,2024-03-23,5,Carla Mendes
+RNC00640,U024,2025-02-07,Fornecedor não homologado,Crítica,Aberta,,,Diego Alves
+RNC00641,U003,2024-06-27,Higienização inadequada,Média,Reincidente,2024-07-07,10,Gustavo Reis
+RNC00642,U016,2025-01-08,Higienização inadequada,Alta,Aberta,,,Bruno Lima
+RNC00643,U023,2025-03-17,EPI/uniforme não conforme,Média,Fechada,2025-03-24,7,Carla Mendes
+RNC00644,U013,2025-07-31,Rotulagem incorreta,Média,Fechada,2025-08-14,14,Igor Santos
+RNC00645,U009,2024-10-20,Higienização inadequada,Crítica,Fechada,2024-10-23,3,Helena Dias
+RNC00646,U016,2025-06-10,Fornecedor não homologado,Baixa,Fechada,2025-06-28,18,Carla Mendes
+RNC00647,U008,2023-12-18,EPI/uniforme não conforme,Média,Em tratativa,,,Bruno Lima
+RNC00648,U022,2024-05-23,Rotulagem incorreta,Média,Fechada,2024-06-02,10,Helena Dias
+RNC00649,U022,2025-02-02,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-02-05,3,Ana Souza
+RNC00650,U005,2025-05-10,Validade vencida,Média,Em tratativa,,,Ana Souza
+RNC00651,U019,2024-02-28,EPI/uniforme não conforme,Baixa,Reincidente,2024-03-10,11,Julia Nogueira
+RNC00652,U021,2023-10-20,Praga/vetor identificado,Alta,Fechada,2023-10-26,6,Bruno Lima
+RNC00653,U007,2025-01-02,Cross contamination,Média,Em tratativa,,,Julia Nogueira
+RNC00654,U005,2025-05-19,Validade vencida,Alta,Em tratativa,,,Elaine Rocha
+RNC00655,U006,2024-09-15,Falha em BPF,Crítica,Fechada,2024-09-17,2,Bruno Lima
+RNC00656,U001,2024-04-25,Cross contamination,Média,Reincidente,2024-05-02,7,Carla Mendes
+RNC00657,U020,2024-01-07,Validade vencida,Baixa,Fechada,2024-01-25,18,Igor Santos
+RNC00658,U025,2024-01-29,EPI/uniforme não conforme,Baixa,Fechada,2024-02-05,7,Igor Santos
+RNC00659,U001,2025-07-26,Cross contamination,Média,Fechada,2025-07-26,0,Diego Alves
+RNC00660,U016,2024-10-25,EPI/uniforme não conforme,Média,Fechada,2024-11-05,11,Bruno Lima
+RNC00661,U014,2024-02-15,EPI/uniforme não conforme,Baixa,Aberta,,,Igor Santos
+RNC00662,U014,2024-06-20,Temperatura inadequada,Baixa,Fechada,2024-06-20,0,Julia Nogueira
+RNC00663,U017,2024-01-29,Cross contamination,Média,Fechada,2024-02-04,6,Felipe Oliveira
+RNC00664,U004,2024-03-07,Praga/vetor identificado,Média,Fechada,2024-03-16,9,Igor Santos
+RNC00665,U014,2025-05-01,Cross contamination,Média,Fechada,2025-05-08,7,Igor Santos
+RNC00666,U018,2025-02-06,Fornecedor não homologado,Baixa,Fechada,2025-02-26,20,Elaine Rocha
+RNC00667,U010,2025-05-14,Rotulagem incorreta,Baixa,Fechada,2025-05-23,9,Diego Alves
+RNC00668,U015,2024-03-14,Higienização inadequada,Baixa,Fechada,2024-03-16,2,Igor Santos
+RNC00669,U020,2023-11-23,Falha em BPF,Baixa,Aberta,,,Helena Dias
+RNC00670,U020,2024-12-19,Higienização inadequada,Baixa,Fechada,2024-12-30,11,Bruno Lima
+RNC00671,U020,2023-11-08,Praga/vetor identificado,Alta,Fechada,2023-11-15,7,Julia Nogueira
+RNC00672,U002,2024-03-28,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-04-03,6,Igor Santos
+RNC00673,U010,2024-04-17,Falha em BPF,Baixa,Em tratativa,,,Ana Souza
+RNC00674,U012,2024-06-01,Rotulagem incorreta,Média,Reincidente,2024-06-06,5,Elaine Rocha
+RNC00675,U025,2024-11-13,Rotulagem incorreta,Média,Fechada,2024-11-16,3,Bruno Lima
+RNC00676,U018,2024-07-18,EPI/uniforme não conforme,Alta,Fechada,2024-07-25,7,Felipe Oliveira
+RNC00677,U012,2024-07-10,Temperatura inadequada,Baixa,Fechada,2024-07-28,18,Elaine Rocha
+RNC00678,U006,2024-11-20,Validade vencida,Média,Fechada,2024-11-26,6,Elaine Rocha
+RNC00679,U011,2024-01-28,EPI/uniforme não conforme,Alta,Fechada,2024-02-06,9,Elaine Rocha
+RNC00680,U023,2024-12-27,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2024-12-29,2,Felipe Oliveira
+RNC00681,U025,2025-01-12,Praga/vetor identificado,Média,Fechada,2025-01-26,14,Bruno Lima
+RNC00682,U013,2025-07-10,Documentação incompleta (APPCC/HACCP),Alta,Em tratativa,,,Felipe Oliveira
+RNC00683,U014,2024-09-26,Rotulagem incorreta,Média,Em tratativa,,,Gustavo Reis
+RNC00684,U022,2024-09-15,Fornecedor não homologado,Baixa,Reincidente,2024-09-27,12,Felipe Oliveira
+RNC00685,U012,2024-05-11,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-05-15,4,Helena Dias
+RNC00686,U024,2024-04-22,Praga/vetor identificado,Baixa,Em tratativa,,,Diego Alves
+RNC00687,U008,2024-04-25,Rotulagem incorreta,Alta,Fechada,2024-05-01,6,Bruno Lima
+RNC00688,U022,2025-02-16,Validade vencida,Média,Fechada,2025-02-20,4,Ana Souza
+RNC00689,U016,2024-10-15,Praga/vetor identificado,Média,Fechada,2024-10-15,0,Helena Dias
+RNC00690,U006,2025-03-07,EPI/uniforme não conforme,Baixa,Em tratativa,,,Carla Mendes
+RNC00691,U002,2025-03-22,Cross contamination,Alta,Fechada,2025-03-23,1,Carla Mendes
+RNC00692,U015,2024-02-01,Temperatura inadequada,Média,Fechada,2024-02-09,8,Ana Souza
+RNC00693,U022,2024-05-03,Falha em BPF,Média,Fechada,2024-05-14,11,Igor Santos
+RNC00694,U009,2024-05-30,Higienização inadequada,Baixa,Reincidente,2024-06-14,15,Felipe Oliveira
+RNC00695,U006,2025-02-22,Cross contamination,Média,Fechada,2025-02-24,2,Elaine Rocha
+RNC00696,U015,2024-04-02,Documentação incompleta (APPCC/HACCP),Média,Reincidente,2024-04-13,11,Bruno Lima
+RNC00697,U024,2024-07-03,Falha em BPF,Alta,Em tratativa,,,Helena Dias
+RNC00698,U001,2024-03-29,Validade vencida,Média,Em tratativa,,,Igor Santos
+RNC00699,U024,2024-08-19,Cross contamination,Alta,Fechada,2024-08-23,4,Bruno Lima
+RNC00700,U023,2024-03-16,Fornecedor não homologado,Baixa,Fechada,2024-04-04,19,Bruno Lima
+RNC00701,U015,2024-09-07,Higienização inadequada,Baixa,Fechada,2024-09-14,7,Ana Souza
+RNC00702,U014,2024-02-02,EPI/uniforme não conforme,Média,Fechada,2024-02-13,11,Diego Alves
+RNC00703,U019,2025-05-12,Higienização inadequada,Média,Fechada,2025-05-12,0,Igor Santos
+RNC00704,U016,2024-12-31,Praga/vetor identificado,Alta,Fechada,2025-01-03,3,Helena Dias
+RNC00705,U021,2024-02-26,EPI/uniforme não conforme,Alta,Fechada,2024-02-27,1,Julia Nogueira
+RNC00706,U013,2023-12-13,Higienização inadequada,Baixa,Fechada,2023-12-14,1,Felipe Oliveira
+RNC00707,U021,2024-07-25,Higienização inadequada,Alta,Fechada,2024-07-28,3,Julia Nogueira
+RNC00708,U017,2025-01-04,Temperatura inadequada,Média,Em tratativa,,,Carla Mendes
+RNC00709,U024,2024-05-28,Falha em BPF,Média,Aberta,,,Gustavo Reis
+RNC00710,U004,2024-01-06,Validade vencida,Baixa,Fechada,2024-01-14,8,Ana Souza
+RNC00711,U001,2024-11-10,Rotulagem incorreta,Média,Fechada,2024-11-19,9,Gustavo Reis
+RNC00712,U010,2024-05-22,Falha em BPF,Baixa,Fechada,2024-06-02,11,Carla Mendes
+RNC00713,U017,2024-03-23,Fornecedor não homologado,Baixa,Fechada,2024-03-28,5,Helena Dias
+RNC00714,U018,2024-07-05,Validade vencida,Média,Em tratativa,,,Carla Mendes
+RNC00715,U019,2025-06-03,Validade vencida,Média,Fechada,2025-06-10,7,Elaine Rocha
+RNC00716,U012,2025-02-05,Fornecedor não homologado,Média,Fechada,2025-02-05,0,Elaine Rocha
+RNC00717,U012,2024-11-26,Falha em BPF,Baixa,Fechada,2024-12-07,11,Felipe Oliveira
+RNC00718,U010,2025-01-23,Fornecedor não homologado,Média,Fechada,2025-01-31,8,Helena Dias
+RNC00719,U010,2023-10-10,Validade vencida,Alta,Fechada,2023-10-16,6,Felipe Oliveira
+RNC00720,U007,2024-11-25,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-11-26,1,Carla Mendes
+RNC00721,U023,2025-07-23,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-07-28,5,Igor Santos
+RNC00722,U025,2025-06-19,Praga/vetor identificado,Alta,Fechada,2025-06-25,6,Igor Santos
+RNC00723,U009,2024-11-26,Fornecedor não homologado,Baixa,Em tratativa,,,Julia Nogueira
+RNC00724,U015,2024-07-05,Higienização inadequada,Alta,Fechada,2024-07-10,5,Ana Souza
+RNC00725,U005,2023-11-20,Falha em BPF,Crítica,Fechada,2023-11-26,6,Helena Dias
+RNC00726,U024,2023-10-09,Fornecedor não homologado,Baixa,Em tratativa,,,Diego Alves
+RNC00727,U011,2024-12-04,Temperatura inadequada,Baixa,Fechada,2024-12-22,18,Felipe Oliveira
+RNC00728,U003,2024-02-27,Rotulagem incorreta,Baixa,Fechada,2024-02-27,0,Igor Santos
+RNC00729,U016,2024-04-03,Rotulagem incorreta,Baixa,Fechada,2024-04-21,18,Diego Alves
+RNC00730,U013,2024-12-27,Documentação incompleta (APPCC/HACCP),Baixa,Reincidente,2024-12-29,2,Helena Dias
+RNC00731,U024,2024-01-05,Praga/vetor identificado,Média,Fechada,2024-01-17,12,Felipe Oliveira
+RNC00732,U006,2025-07-06,Validade vencida,Alta,Fechada,2025-07-10,4,Igor Santos
+RNC00733,U004,2024-06-16,Documentação incompleta (APPCC/HACCP),Média,Aberta,,,Bruno Lima
+RNC00734,U008,2025-07-10,Praga/vetor identificado,Média,Aberta,,,Julia Nogueira
+RNC00735,U004,2024-11-09,Fornecedor não homologado,Alta,Fechada,2024-11-14,5,Julia Nogueira
+RNC00736,U005,2024-10-15,Fornecedor não homologado,Alta,Em tratativa,,,Bruno Lima
+RNC00737,U022,2025-06-25,Higienização inadequada,Baixa,Aberta,,,Carla Mendes
+RNC00738,U023,2025-04-02,Documentação incompleta (APPCC/HACCP),Alta,Em tratativa,,,Felipe Oliveira
+RNC00739,U018,2025-07-22,Cross contamination,Alta,Em tratativa,,,Felipe Oliveira
+RNC00740,U024,2024-02-15,Fornecedor não homologado,Baixa,Aberta,,,Igor Santos
+RNC00741,U010,2025-04-08,Fornecedor não homologado,Média,Fechada,2025-04-16,8,Elaine Rocha
+RNC00742,U020,2025-04-20,Fornecedor não homologado,Baixa,Fechada,2025-05-05,15,Elaine Rocha
+RNC00743,U009,2025-04-07,Falha em BPF,Média,Fechada,2025-04-20,13,Ana Souza
+RNC00744,U020,2024-10-07,Rotulagem incorreta,Alta,Em tratativa,,,Igor Santos
+RNC00745,U013,2024-04-12,Higienização inadequada,Média,Fechada,2024-04-14,2,Gustavo Reis
+RNC00746,U021,2024-08-25,Rotulagem incorreta,Baixa,Fechada,2024-09-06,12,Ana Souza
+RNC00747,U005,2024-03-31,EPI/uniforme não conforme,Alta,Aberta,,,Gustavo Reis
+RNC00748,U022,2025-02-13,Praga/vetor identificado,Média,Fechada,2025-02-25,12,Ana Souza
+RNC00749,U012,2024-05-14,Fornecedor não homologado,Média,Em tratativa,,,Bruno Lima
+RNC00750,U015,2025-07-16,Cross contamination,Baixa,Fechada,2025-08-02,17,Felipe Oliveira
+RNC00751,U023,2023-11-29,Praga/vetor identificado,Alta,Aberta,,,Bruno Lima
+RNC00752,U007,2025-03-15,Validade vencida,Baixa,Fechada,2025-03-28,13,Gustavo Reis
+RNC00753,U007,2024-04-15,Validade vencida,Média,Em tratativa,,,Gustavo Reis
+RNC00754,U024,2024-01-17,Fornecedor não homologado,Alta,Fechada,2024-01-25,8,Gustavo Reis
+RNC00755,U004,2024-03-19,Validade vencida,Alta,Fechada,2024-03-21,2,Julia Nogueira
+RNC00756,U015,2024-09-25,Higienização inadequada,Alta,Fechada,2024-09-29,4,Felipe Oliveira
+RNC00757,U014,2025-07-10,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-07-17,7,Gustavo Reis
+RNC00758,U025,2025-04-16,Fornecedor não homologado,Crítica,Fechada,2025-04-16,0,Helena Dias
+RNC00759,U013,2023-10-01,Praga/vetor identificado,Alta,Fechada,2023-10-09,8,Ana Souza
+RNC00760,U010,2024-05-15,Praga/vetor identificado,Baixa,Fechada,2024-05-26,11,Igor Santos
+RNC00761,U017,2025-04-22,Falha em BPF,Média,Fechada,2025-04-28,6,Carla Mendes
+RNC00762,U009,2024-10-10,Praga/vetor identificado,Alta,Em tratativa,,,Elaine Rocha
+RNC00763,U003,2025-05-07,Fornecedor não homologado,Média,Fechada,2025-05-20,13,Carla Mendes
+RNC00764,U016,2025-05-13,Praga/vetor identificado,Alta,Aberta,,,Ana Souza
+RNC00765,U024,2025-05-13,Cross contamination,Média,Fechada,2025-05-22,9,Gustavo Reis
+RNC00766,U004,2024-05-20,Temperatura inadequada,Alta,Fechada,2024-05-20,0,Gustavo Reis
+RNC00767,U002,2024-08-08,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-08-13,5,Carla Mendes
+RNC00768,U002,2024-11-06,EPI/uniforme não conforme,Crítica,Fechada,2024-11-10,4,Igor Santos
+RNC00769,U003,2024-05-15,Fornecedor não homologado,Média,Fechada,2024-05-23,8,Julia Nogueira
+RNC00770,U024,2023-11-20,Cross contamination,Média,Fechada,2023-11-25,5,Igor Santos
+RNC00771,U014,2024-02-11,EPI/uniforme não conforme,Alta,Fechada,2024-02-14,3,Diego Alves
+RNC00772,U018,2025-06-22,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2025-06-25,3,Bruno Lima
+RNC00773,U009,2024-12-14,Cross contamination,Baixa,Fechada,2024-12-28,14,Felipe Oliveira
+RNC00774,U012,2024-04-13,Temperatura inadequada,Baixa,Fechada,2024-04-23,10,Elaine Rocha
+RNC00775,U006,2024-09-23,Temperatura inadequada,Média,Em tratativa,,,Diego Alves
+RNC00776,U007,2024-10-17,Rotulagem incorreta,Baixa,Fechada,2024-10-28,11,Bruno Lima
+RNC00777,U024,2023-11-25,Praga/vetor identificado,Baixa,Fechada,2023-12-04,9,Ana Souza
+RNC00778,U011,2024-01-22,Higienização inadequada,Baixa,Fechada,2024-01-31,9,Diego Alves
+RNC00779,U024,2025-04-03,EPI/uniforme não conforme,Baixa,Fechada,2025-04-05,2,Carla Mendes
+RNC00780,U023,2023-10-19,Validade vencida,Média,Reincidente,2023-10-25,6,Ana Souza
+RNC00781,U009,2024-03-23,Fornecedor não homologado,Baixa,Fechada,2024-04-06,14,Ana Souza
+RNC00782,U003,2024-11-01,Higienização inadequada,Média,Fechada,2024-11-14,13,Bruno Lima
+RNC00783,U001,2024-07-26,Rotulagem incorreta,Alta,Fechada,2024-07-29,3,Felipe Oliveira
+RNC00784,U016,2025-06-03,Validade vencida,Média,Em tratativa,,,Helena Dias
+RNC00785,U018,2023-10-23,Falha em BPF,Baixa,Fechada,2023-11-08,16,Ana Souza
+RNC00786,U012,2024-09-25,Validade vencida,Média,Fechada,2024-10-01,6,Elaine Rocha
+RNC00787,U002,2025-07-02,Validade vencida,Baixa,Reincidente,2025-07-02,0,Elaine Rocha
+RNC00788,U008,2024-03-04,Falha em BPF,Baixa,Fechada,2024-04-02,29,Bruno Lima
+RNC00789,U024,2024-10-26,Cross contamination,Média,Fechada,2024-10-30,4,Diego Alves
+RNC00790,U019,2024-03-05,EPI/uniforme não conforme,Média,Fechada,2024-03-05,0,Felipe Oliveira
+RNC00791,U015,2025-04-08,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-04-15,7,Carla Mendes
+RNC00792,U010,2025-03-20,Falha em BPF,Alta,Fechada,2025-03-22,2,Julia Nogueira
+RNC00793,U006,2024-08-21,Falha em BPF,Baixa,Em tratativa,,,Ana Souza
+RNC00794,U025,2024-08-22,Cross contamination,Alta,Fechada,2024-08-26,4,Elaine Rocha
+RNC00795,U015,2025-07-14,Falha em BPF,Crítica,Em tratativa,,,Ana Souza
+RNC00796,U025,2025-06-18,EPI/uniforme não conforme,Média,Fechada,2025-07-02,14,Diego Alves
+RNC00797,U020,2024-05-25,Falha em BPF,Baixa,Fechada,2024-06-08,14,Igor Santos
+RNC00798,U020,2025-01-23,Cross contamination,Alta,Fechada,2025-01-28,5,Helena Dias
+RNC00799,U016,2024-02-18,Praga/vetor identificado,Baixa,Reincidente,2024-03-01,12,Gustavo Reis
+RNC00800,U008,2024-04-25,Fornecedor não homologado,Alta,Aberta,,,Julia Nogueira
+RNC00801,U016,2024-08-28,EPI/uniforme não conforme,Alta,Fechada,2024-09-04,7,Gustavo Reis
+RNC00802,U024,2024-08-16,EPI/uniforme não conforme,Média,Reincidente,2024-08-21,5,Julia Nogueira
+RNC00803,U018,2025-03-21,Fornecedor não homologado,Média,Em tratativa,,,Ana Souza
+RNC00804,U008,2025-03-15,Temperatura inadequada,Média,Reincidente,2025-03-21,6,Igor Santos
+RNC00805,U013,2025-03-12,Praga/vetor identificado,Alta,Fechada,2025-03-18,6,Elaine Rocha
+RNC00806,U015,2024-03-19,Temperatura inadequada,Média,Fechada,2024-03-26,7,Igor Santos
+RNC00807,U005,2025-01-17,EPI/uniforme não conforme,Alta,Em tratativa,,,Igor Santos
+RNC00808,U005,2024-11-06,Falha em BPF,Média,Fechada,2024-11-15,9,Helena Dias
+RNC00809,U019,2024-04-24,Falha em BPF,Alta,Fechada,2024-04-30,6,Bruno Lima
+RNC00810,U003,2024-01-25,Rotulagem incorreta,Alta,Fechada,2024-01-31,6,Igor Santos
+RNC00811,U023,2024-10-28,Validade vencida,Alta,Em tratativa,,,Gustavo Reis
+RNC00812,U002,2024-03-23,Falha em BPF,Alta,Fechada,2024-03-27,4,Carla Mendes
+RNC00813,U005,2024-04-01,Fornecedor não homologado,Alta,Fechada,2024-04-08,7,Elaine Rocha
+RNC00814,U021,2024-04-03,Documentação incompleta (APPCC/HACCP),Baixa,Em tratativa,,,Ana Souza
+RNC00815,U020,2024-06-16,EPI/uniforme não conforme,Baixa,Fechada,2024-06-20,4,Helena Dias
+RNC00816,U008,2024-05-10,Cross contamination,Média,Fechada,2024-05-18,8,Helena Dias
+RNC00817,U003,2025-06-07,Validade vencida,Média,Fechada,2025-06-15,8,Diego Alves
+RNC00818,U002,2024-04-07,Temperatura inadequada,Baixa,Fechada,2024-04-26,19,Carla Mendes
+RNC00819,U002,2025-05-14,Cross contamination,Alta,Aberta,,,Carla Mendes
+RNC00820,U006,2024-07-18,EPI/uniforme não conforme,Média,Fechada,2024-08-03,16,Julia Nogueira
+RNC00821,U018,2024-03-30,Praga/vetor identificado,Crítica,Aberta,,,Felipe Oliveira
+RNC00822,U012,2024-10-23,Validade vencida,Alta,Fechada,2024-10-25,2,Bruno Lima
+RNC00823,U010,2025-01-25,Validade vencida,Baixa,Fechada,2025-02-04,10,Diego Alves
+RNC00824,U023,2024-05-02,Validade vencida,Média,Em tratativa,,,Bruno Lima
+RNC00825,U016,2025-06-11,Higienização inadequada,Crítica,Fechada,2025-06-15,4,Elaine Rocha
+RNC00826,U017,2025-05-11,Falha em BPF,Crítica,Fechada,2025-05-13,2,Julia Nogueira
+RNC00827,U019,2025-02-20,EPI/uniforme não conforme,Média,Em tratativa,,,Diego Alves
+RNC00828,U023,2024-07-24,Temperatura inadequada,Crítica,Aberta,,,Helena Dias
+RNC00829,U021,2024-01-29,Temperatura inadequada,Alta,Fechada,2024-02-03,5,Felipe Oliveira
+RNC00830,U012,2025-04-26,Documentação incompleta (APPCC/HACCP),Alta,Em tratativa,,,Elaine Rocha
+RNC00831,U009,2023-12-09,Higienização inadequada,Baixa,Aberta,,,Felipe Oliveira
+RNC00832,U013,2025-05-05,Falha em BPF,Média,Aberta,,,Diego Alves
+RNC00833,U011,2024-09-11,Falha em BPF,Crítica,Aberta,,,Helena Dias
+RNC00834,U005,2025-07-04,Higienização inadequada,Média,Fechada,2025-07-12,8,Helena Dias
+RNC00835,U014,2023-11-27,Validade vencida,Alta,Fechada,2023-11-30,3,Ana Souza
+RNC00836,U007,2025-05-14,Higienização inadequada,Média,Fechada,2025-05-28,14,Bruno Lima
+RNC00837,U005,2024-07-14,Falha em BPF,Alta,Fechada,2024-07-17,3,Julia Nogueira
+RNC00838,U020,2024-11-02,Praga/vetor identificado,Baixa,Em tratativa,,,Felipe Oliveira
+RNC00839,U023,2023-11-02,Praga/vetor identificado,Baixa,Fechada,2023-11-24,22,Diego Alves
+RNC00840,U017,2024-08-05,Temperatura inadequada,Baixa,Fechada,2024-08-23,18,Diego Alves
+RNC00841,U003,2024-12-28,Higienização inadequada,Média,Em tratativa,,,Helena Dias
+RNC00842,U024,2025-03-20,Rotulagem incorreta,Baixa,Fechada,2025-03-20,0,Igor Santos
+RNC00843,U022,2024-02-13,Rotulagem incorreta,Baixa,Fechada,2024-03-01,17,Ana Souza
+RNC00844,U010,2023-11-15,Rotulagem incorreta,Média,Fechada,2023-11-23,8,Felipe Oliveira
+RNC00845,U015,2023-11-17,Praga/vetor identificado,Baixa,Aberta,,,Diego Alves
+RNC00846,U011,2024-04-23,Higienização inadequada,Baixa,Fechada,2024-04-25,2,Helena Dias
+RNC00847,U022,2024-01-29,Validade vencida,Baixa,Reincidente,2024-02-11,13,Igor Santos
+RNC00848,U004,2024-04-29,Praga/vetor identificado,Média,Fechada,2024-05-08,9,Carla Mendes
+RNC00849,U023,2024-07-17,Validade vencida,Média,Fechada,2024-07-26,9,Helena Dias
+RNC00850,U002,2024-02-11,Temperatura inadequada,Baixa,Reincidente,2024-02-27,16,Bruno Lima
+RNC00851,U013,2023-11-25,Fornecedor não homologado,Baixa,Fechada,2023-11-29,4,Julia Nogueira
+RNC00852,U012,2024-08-15,Validade vencida,Baixa,Em tratativa,,,Bruno Lima
+RNC00853,U025,2025-01-19,Rotulagem incorreta,Média,Fechada,2025-02-02,14,Helena Dias
+RNC00854,U010,2025-07-21,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-07-28,7,Diego Alves
+RNC00855,U005,2025-06-23,Higienização inadequada,Baixa,Reincidente,2025-07-02,9,Felipe Oliveira
+RNC00856,U015,2025-02-11,Higienização inadequada,Baixa,Fechada,2025-02-25,14,Helena Dias
+RNC00857,U015,2024-03-23,Cross contamination,Baixa,Fechada,2024-03-30,7,Bruno Lima
+RNC00858,U011,2025-04-22,Validade vencida,Média,Fechada,2025-05-04,12,Helena Dias
+RNC00859,U013,2025-05-27,Cross contamination,Média,Reincidente,2025-05-31,4,Bruno Lima
+RNC00860,U011,2024-05-01,Cross contamination,Alta,Fechada,2024-05-03,2,Julia Nogueira
+RNC00861,U011,2025-04-10,EPI/uniforme não conforme,Média,Fechada,2025-04-20,10,Helena Dias
+RNC00862,U004,2025-05-29,Rotulagem incorreta,Média,Fechada,2025-06-11,13,Helena Dias
+RNC00863,U006,2024-08-11,Cross contamination,Crítica,Fechada,2024-08-14,3,Felipe Oliveira
+RNC00864,U016,2025-07-22,Falha em BPF,Média,Aberta,,,Julia Nogueira
+RNC00865,U025,2025-07-13,Praga/vetor identificado,Alta,Fechada,2025-07-18,5,Gustavo Reis
+RNC00866,U020,2025-05-14,Higienização inadequada,Média,Em tratativa,,,Elaine Rocha
+RNC00867,U019,2024-08-07,Rotulagem incorreta,Alta,Reincidente,2024-08-15,8,Julia Nogueira
+RNC00868,U001,2025-06-18,Falha em BPF,Crítica,Fechada,2025-06-20,2,Elaine Rocha
+RNC00869,U002,2024-10-13,Higienização inadequada,Alta,Fechada,2024-10-18,5,Bruno Lima
+RNC00870,U010,2023-11-01,Cross contamination,Baixa,Fechada,2023-11-12,11,Felipe Oliveira
+RNC00871,U023,2024-10-26,Falha em BPF,Média,Em tratativa,,,Diego Alves
+RNC00872,U018,2024-10-28,Cross contamination,Alta,Fechada,2024-11-02,5,Carla Mendes
+RNC00873,U010,2024-02-06,Fornecedor não homologado,Baixa,Fechada,2024-02-18,12,Gustavo Reis
+RNC00874,U005,2023-12-26,Fornecedor não homologado,Baixa,Fechada,2024-01-07,12,Julia Nogueira
+RNC00875,U014,2025-06-30,Higienização inadequada,Baixa,Fechada,2025-07-04,4,Diego Alves
+RNC00876,U006,2024-12-08,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-12-15,7,Igor Santos
+RNC00877,U009,2024-11-24,Fornecedor não homologado,Crítica,Aberta,,,Felipe Oliveira
+RNC00878,U004,2025-05-17,Falha em BPF,Média,Fechada,2025-05-24,7,Igor Santos
+RNC00879,U025,2024-07-13,Fornecedor não homologado,Média,Aberta,,,Bruno Lima
+RNC00880,U022,2025-07-10,EPI/uniforme não conforme,Média,Fechada,2025-07-21,11,Ana Souza
+RNC00881,U011,2025-03-31,Higienização inadequada,Alta,Fechada,2025-04-02,2,Gustavo Reis
+RNC00882,U012,2024-07-28,EPI/uniforme não conforme,Baixa,Aberta,,,Elaine Rocha
+RNC00883,U024,2025-04-30,Praga/vetor identificado,Baixa,Fechada,2025-05-06,6,Julia Nogueira
+RNC00884,U001,2024-07-20,Rotulagem incorreta,Média,Em tratativa,,,Elaine Rocha
+RNC00885,U009,2024-02-13,EPI/uniforme não conforme,Média,Fechada,2024-02-20,7,Carla Mendes
+RNC00886,U019,2024-03-03,Falha em BPF,Média,Fechada,2024-03-14,11,Elaine Rocha
+RNC00887,U023,2024-05-29,Rotulagem incorreta,Média,Fechada,2024-06-08,10,Carla Mendes
+RNC00888,U020,2024-03-06,Cross contamination,Alta,Fechada,2024-03-06,0,Gustavo Reis
+RNC00889,U008,2024-12-24,Temperatura inadequada,Alta,Fechada,2024-12-30,6,Elaine Rocha
+RNC00890,U025,2024-01-27,Fornecedor não homologado,Baixa,Fechada,2024-02-14,18,Elaine Rocha
+RNC00891,U016,2025-03-29,Validade vencida,Baixa,Fechada,2025-04-07,9,Gustavo Reis
+RNC00892,U001,2024-07-22,Higienização inadequada,Crítica,Fechada,2024-07-23,1,Igor Santos
+RNC00893,U022,2023-11-12,EPI/uniforme não conforme,Baixa,Fechada,2023-11-18,6,Elaine Rocha
+RNC00894,U011,2024-07-03,EPI/uniforme não conforme,Baixa,Aberta,,,Gustavo Reis
+RNC00895,U015,2024-06-04,Falha em BPF,Alta,Fechada,2024-06-07,3,Felipe Oliveira
+RNC00896,U018,2023-10-11,Temperatura inadequada,Média,Fechada,2023-10-17,6,Gustavo Reis
+RNC00897,U004,2025-03-21,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-03-29,8,Ana Souza
+RNC00898,U001,2025-06-26,Documentação incompleta (APPCC/HACCP),Baixa,Reincidente,2025-07-09,13,Julia Nogueira
+RNC00899,U021,2024-02-02,EPI/uniforme não conforme,Alta,Em tratativa,,,Carla Mendes
+RNC00900,U004,2024-04-06,Rotulagem incorreta,Baixa,Fechada,2024-04-26,20,Helena Dias
+RNC00901,U009,2024-12-11,Rotulagem incorreta,Média,Fechada,2024-12-15,4,Elaine Rocha
+RNC00902,U025,2023-12-03,Temperatura inadequada,Média,Fechada,2023-12-05,2,Elaine Rocha
+RNC00903,U009,2024-03-31,Falha em BPF,Média,Fechada,2024-03-31,0,Helena Dias
+RNC00904,U004,2024-02-25,EPI/uniforme não conforme,Média,Fechada,2024-03-04,8,Bruno Lima
+RNC00905,U015,2024-06-22,Fornecedor não homologado,Baixa,Fechada,2024-07-11,19,Ana Souza
+RNC00906,U016,2024-03-01,Temperatura inadequada,Média,Aberta,,,Gustavo Reis
+RNC00907,U009,2024-03-04,Fornecedor não homologado,Alta,Fechada,2024-03-11,7,Helena Dias
+RNC00908,U014,2024-11-17,Rotulagem incorreta,Alta,Fechada,2024-11-20,3,Igor Santos
+RNC00909,U008,2023-10-04,Validade vencida,Média,Em tratativa,,,Felipe Oliveira
+RNC00910,U011,2024-08-06,Rotulagem incorreta,Média,Fechada,2024-08-07,1,Felipe Oliveira
+RNC00911,U018,2024-09-13,Falha em BPF,Baixa,Fechada,2024-09-15,2,Igor Santos
+RNC00912,U002,2024-10-28,Cross contamination,Média,Fechada,2024-11-06,9,Bruno Lima
+RNC00913,U021,2024-10-02,Temperatura inadequada,Média,Em tratativa,,,Diego Alves
+RNC00914,U001,2025-05-30,Validade vencida,Baixa,Fechada,2025-06-06,7,Elaine Rocha
+RNC00915,U016,2025-03-30,Higienização inadequada,Crítica,Aberta,,,Ana Souza
+RNC00916,U011,2023-11-13,Validade vencida,Média,Em tratativa,,,Helena Dias
+RNC00917,U022,2025-04-02,Falha em BPF,Baixa,Aberta,,,Helena Dias
+RNC00918,U021,2023-10-20,Temperatura inadequada,Média,Reincidente,2023-10-23,3,Diego Alves
+RNC00919,U023,2025-07-26,Rotulagem incorreta,Baixa,Fechada,2025-08-07,12,Helena Dias
+RNC00920,U020,2024-03-23,Rotulagem incorreta,Alta,Aberta,,,Bruno Lima
+RNC00921,U016,2025-06-01,Cross contamination,Alta,Fechada,2025-06-06,5,Felipe Oliveira
+RNC00922,U004,2025-05-12,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-05-27,15,Ana Souza
+RNC00923,U019,2024-03-26,Higienização inadequada,Baixa,Fechada,2024-04-09,14,Igor Santos
+RNC00924,U006,2024-12-23,Falha em BPF,Baixa,Fechada,2025-01-06,14,Bruno Lima
+RNC00925,U021,2025-06-19,Temperatura inadequada,Média,Aberta,,,Carla Mendes
+RNC00926,U003,2025-07-29,Fornecedor não homologado,Média,Fechada,2025-08-12,14,Carla Mendes
+RNC00927,U007,2024-02-24,EPI/uniforme não conforme,Média,Reincidente,2024-02-27,3,Ana Souza
+RNC00928,U020,2024-04-02,Rotulagem incorreta,Alta,Fechada,2024-04-06,4,Elaine Rocha
+RNC00929,U012,2024-12-02,Rotulagem incorreta,Baixa,Fechada,2024-12-14,12,Julia Nogueira
+RNC00930,U012,2025-04-05,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-04-14,9,Elaine Rocha
+RNC00931,U002,2024-04-16,Fornecedor não homologado,Baixa,Reincidente,2024-05-04,18,Carla Mendes
+RNC00932,U006,2023-11-14,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2023-12-05,21,Gustavo Reis
+RNC00933,U009,2024-09-07,Temperatura inadequada,Média,Em tratativa,,,Igor Santos
+RNC00934,U006,2024-03-10,Rotulagem incorreta,Alta,Fechada,2024-03-13,3,Bruno Lima
+RNC00935,U008,2024-12-29,Higienização inadequada,Média,Fechada,2025-01-04,6,Diego Alves
+RNC00936,U025,2024-01-21,Cross contamination,Baixa,Aberta,,,Diego Alves
+RNC00937,U013,2024-05-13,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-05-23,10,Julia Nogueira
+RNC00938,U015,2024-03-31,Documentação incompleta (APPCC/HACCP),Média,Em tratativa,,,Felipe Oliveira
+RNC00939,U009,2024-04-25,Rotulagem incorreta,Baixa,Fechada,2024-05-14,19,Helena Dias
+RNC00940,U015,2024-12-02,Praga/vetor identificado,Baixa,Fechada,2024-12-15,13,Julia Nogueira
+RNC00941,U006,2025-07-15,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2025-07-19,4,Bruno Lima
+RNC00942,U014,2025-03-18,EPI/uniforme não conforme,Média,Reincidente,2025-03-23,5,Helena Dias
+RNC00943,U015,2024-07-12,Cross contamination,Baixa,Em tratativa,,,Julia Nogueira
+RNC00944,U008,2025-05-28,Temperatura inadequada,Crítica,Reincidente,2025-06-01,4,Gustavo Reis
+RNC00945,U002,2023-11-11,Cross contamination,Crítica,Fechada,2023-11-13,2,Helena Dias
+RNC00946,U023,2024-01-09,Validade vencida,Média,Em tratativa,,,Ana Souza
+RNC00947,U023,2024-11-20,Rotulagem incorreta,Crítica,Fechada,2024-11-23,3,Ana Souza
+RNC00948,U016,2024-08-08,EPI/uniforme não conforme,Baixa,Fechada,2024-08-23,15,Julia Nogueira
+RNC00949,U001,2025-01-08,Higienização inadequada,Média,Em tratativa,,,Helena Dias
+RNC00950,U023,2025-07-10,Cross contamination,Baixa,Fechada,2025-07-29,19,Felipe Oliveira
+RNC00951,U017,2023-11-03,EPI/uniforme não conforme,Baixa,Fechada,2023-11-15,12,Diego Alves
+RNC00952,U022,2023-12-22,Temperatura inadequada,Média,Fechada,2023-12-23,1,Igor Santos
+RNC00953,U022,2024-10-07,Higienização inadequada,Alta,Fechada,2024-10-13,6,Felipe Oliveira
+RNC00954,U006,2025-07-25,Documentação incompleta (APPCC/HACCP),Média,Aberta,,,Carla Mendes
+RNC00955,U011,2024-06-01,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-06-05,4,Diego Alves
+RNC00956,U011,2024-09-26,Cross contamination,Alta,Fechada,2024-09-27,1,Elaine Rocha
+RNC00957,U002,2023-12-04,Fornecedor não homologado,Média,Fechada,2023-12-07,3,Igor Santos
+RNC00958,U022,2025-03-29,Higienização inadequada,Alta,Fechada,2025-04-03,5,Bruno Lima
+RNC00959,U007,2025-01-11,Rotulagem incorreta,Baixa,Reincidente,2025-01-20,9,Bruno Lima
+RNC00960,U006,2024-07-09,Falha em BPF,Baixa,Em tratativa,,,Diego Alves
+RNC00961,U017,2025-07-04,Fornecedor não homologado,Baixa,Reincidente,2025-07-08,4,Felipe Oliveira
+RNC00962,U014,2024-12-28,Documentação incompleta (APPCC/HACCP),Alta,Aberta,,,Bruno Lima
+RNC00963,U001,2024-05-25,Higienização inadequada,Alta,Fechada,2024-05-27,2,Helena Dias
+RNC00964,U019,2025-03-26,Praga/vetor identificado,Alta,Fechada,2025-03-30,4,Julia Nogueira
+RNC00965,U005,2024-08-09,Temperatura inadequada,Baixa,Reincidente,2024-08-20,11,Carla Mendes
+RNC00966,U012,2024-07-18,Falha em BPF,Média,Em tratativa,,,Igor Santos
+RNC00967,U010,2024-04-04,Falha em BPF,Crítica,Fechada,2024-04-08,4,Carla Mendes
+RNC00968,U008,2024-01-28,Falha em BPF,Baixa,Fechada,2024-02-01,4,Helena Dias
+RNC00969,U009,2024-10-13,Higienização inadequada,Baixa,Fechada,2024-10-23,10,Carla Mendes
+RNC00970,U012,2025-01-02,Praga/vetor identificado,Média,Em tratativa,,,Bruno Lima
+RNC00971,U001,2024-11-18,Falha em BPF,Crítica,Reincidente,2024-11-21,3,Ana Souza
+RNC00972,U024,2025-04-12,Praga/vetor identificado,Crítica,Fechada,2025-04-12,0,Helena Dias
+RNC00973,U010,2025-05-10,Higienização inadequada,Média,Reincidente,2025-05-19,9,Bruno Lima
+RNC00974,U024,2025-02-02,Validade vencida,Alta,Em tratativa,,,Bruno Lima
+RNC00975,U010,2023-10-26,Temperatura inadequada,Média,Aberta,,,Julia Nogueira
+RNC00976,U021,2024-04-17,Praga/vetor identificado,Média,Em tratativa,,,Diego Alves
+RNC00977,U001,2023-12-25,Validade vencida,Média,Aberta,,,Gustavo Reis
+RNC00978,U007,2025-02-14,Temperatura inadequada,Baixa,Fechada,2025-03-01,15,Felipe Oliveira
+RNC00979,U013,2024-02-29,Higienização inadequada,Alta,Aberta,,,Felipe Oliveira
+RNC00980,U010,2024-12-30,Fornecedor não homologado,Alta,Aberta,,,Gustavo Reis
+RNC00981,U015,2024-07-22,Cross contamination,Baixa,Fechada,2024-08-01,10,Carla Mendes
+RNC00982,U019,2025-06-04,Fornecedor não homologado,Baixa,Em tratativa,,,Igor Santos
+RNC00983,U011,2023-12-07,Praga/vetor identificado,Crítica,Aberta,,,Gustavo Reis
+RNC00984,U006,2025-04-22,Falha em BPF,Média,Fechada,2025-04-27,5,Diego Alves
+RNC00985,U006,2024-10-25,EPI/uniforme não conforme,Baixa,Fechada,2024-10-25,0,Elaine Rocha
+RNC00986,U016,2025-04-25,Temperatura inadequada,Alta,Em tratativa,,,Carla Mendes
+RNC00987,U009,2024-08-03,Praga/vetor identificado,Crítica,Fechada,2024-08-06,3,Gustavo Reis
+RNC00988,U006,2025-02-15,Temperatura inadequada,Alta,Fechada,2025-02-17,2,Bruno Lima
+RNC00989,U025,2024-07-10,Fornecedor não homologado,Média,Fechada,2024-07-23,13,Julia Nogueira
+RNC00990,U014,2024-06-21,Rotulagem incorreta,Média,Fechada,2024-06-28,7,Felipe Oliveira
+RNC00991,U017,2025-05-12,Fornecedor não homologado,Baixa,Em tratativa,,,Carla Mendes
+RNC00992,U012,2024-03-16,Higienização inadequada,Baixa,Fechada,2024-04-04,19,Ana Souza
+RNC00993,U010,2024-07-25,Falha em BPF,Média,Fechada,2024-08-06,12,Bruno Lima
+RNC00994,U020,2024-03-20,Praga/vetor identificado,Média,Fechada,2024-03-26,6,Elaine Rocha
+RNC00995,U022,2024-10-06,Validade vencida,Baixa,Aberta,,,Elaine Rocha
+RNC00996,U012,2025-02-08,Falha em BPF,Média,Reincidente,2025-02-12,4,Bruno Lima
+RNC00997,U007,2024-03-07,Validade vencida,Média,Fechada,2024-03-18,11,Igor Santos
+RNC00998,U023,2025-04-17,Cross contamination,Alta,Fechada,2025-04-18,1,Helena Dias
+RNC00999,U003,2024-01-28,Higienização inadequada,Alta,Fechada,2024-02-04,7,Carla Mendes
+RNC01000,U015,2025-06-03,Falha em BPF,Média,Reincidente,2025-06-08,5,Elaine Rocha
+RNC01001,U001,2024-01-30,Falha em BPF,Baixa,Em tratativa,,,Diego Alves
+RNC01002,U005,2023-12-20,Rotulagem incorreta,Média,Fechada,2023-12-26,6,Bruno Lima
+RNC01003,U001,2025-02-07,Validade vencida,Alta,Fechada,2025-02-13,6,Julia Nogueira
+RNC01004,U002,2025-01-23,Rotulagem incorreta,Baixa,Fechada,2025-02-04,12,Elaine Rocha
+RNC01005,U022,2023-10-11,Documentação incompleta (APPCC/HACCP),Alta,Em tratativa,,,Carla Mendes
+RNC01006,U022,2024-09-24,Praga/vetor identificado,Baixa,Em tratativa,,,Julia Nogueira
+RNC01007,U012,2024-09-25,EPI/uniforme não conforme,Baixa,Em tratativa,,,Bruno Lima
+RNC01008,U004,2025-05-15,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-05-19,4,Elaine Rocha
+RNC01009,U006,2025-04-03,Fornecedor não homologado,Baixa,Reincidente,2025-04-12,9,Felipe Oliveira
+RNC01010,U023,2025-05-26,Rotulagem incorreta,Baixa,Fechada,2025-05-26,0,Carla Mendes
+RNC01011,U012,2024-10-23,Higienização inadequada,Média,Fechada,2024-10-26,3,Bruno Lima
+RNC01012,U015,2024-01-21,Higienização inadequada,Média,Fechada,2024-01-28,7,Elaine Rocha
+RNC01013,U018,2023-11-11,Praga/vetor identificado,Baixa,Fechada,2023-11-17,6,Helena Dias
+RNC01014,U008,2025-04-20,Cross contamination,Média,Reincidente,2025-04-28,8,Diego Alves
+RNC01015,U003,2025-01-30,Rotulagem incorreta,Crítica,Fechada,2025-02-01,2,Gustavo Reis
+RNC01016,U015,2025-03-19,Falha em BPF,Média,Aberta,,,Gustavo Reis
+RNC01017,U013,2025-05-27,Higienização inadequada,Crítica,Em tratativa,,,Diego Alves
+RNC01018,U011,2024-04-23,Rotulagem incorreta,Média,Reincidente,2024-04-23,0,Diego Alves
+RNC01019,U014,2025-02-23,Cross contamination,Baixa,Fechada,2025-03-05,10,Felipe Oliveira
+RNC01020,U016,2025-06-09,Validade vencida,Crítica,Reincidente,2025-06-10,1,Elaine Rocha
+RNC01021,U005,2025-01-08,Falha em BPF,Baixa,Fechada,2025-01-19,11,Ana Souza
+RNC01022,U004,2023-11-24,Temperatura inadequada,Alta,Fechada,2023-12-01,7,Carla Mendes
+RNC01023,U013,2025-06-11,Rotulagem incorreta,Média,Aberta,,,Igor Santos
+RNC01024,U025,2025-02-16,Fornecedor não homologado,Alta,Em tratativa,,,Helena Dias
+RNC01025,U017,2024-06-24,Temperatura inadequada,Média,Aberta,,,Gustavo Reis
+RNC01026,U004,2024-10-27,Fornecedor não homologado,Média,Fechada,2024-10-30,3,Helena Dias
+RNC01027,U002,2023-11-03,Falha em BPF,Baixa,Fechada,2023-11-09,6,Helena Dias
+RNC01028,U014,2024-02-15,Rotulagem incorreta,Baixa,Fechada,2024-02-18,3,Julia Nogueira
+RNC01029,U022,2025-02-14,Falha em BPF,Média,Fechada,2025-02-19,5,Igor Santos
+RNC01030,U002,2024-11-04,Cross contamination,Baixa,Fechada,2024-11-08,4,Julia Nogueira
+RNC01031,U022,2024-09-26,Falha em BPF,Alta,Fechada,2024-09-30,4,Felipe Oliveira
+RNC01032,U012,2025-05-20,Higienização inadequada,Baixa,Fechada,2025-06-03,14,Gustavo Reis
+RNC01033,U004,2024-12-12,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-12-20,8,Diego Alves
+RNC01034,U021,2024-08-15,Rotulagem incorreta,Média,Reincidente,2024-08-25,10,Elaine Rocha
+RNC01035,U004,2024-09-10,Cross contamination,Baixa,Fechada,2024-09-20,10,Julia Nogueira
+RNC01036,U017,2024-12-05,EPI/uniforme não conforme,Baixa,Fechada,2024-12-16,11,Ana Souza
+RNC01037,U011,2024-10-21,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-10-28,7,Felipe Oliveira
+RNC01038,U016,2025-02-26,Falha em BPF,Alta,Fechada,2025-03-04,6,Julia Nogueira
+RNC01039,U010,2024-10-07,Rotulagem incorreta,Crítica,Reincidente,2024-10-10,3,Igor Santos
+RNC01040,U007,2024-07-21,EPI/uniforme não conforme,Baixa,Fechada,2024-08-10,20,Gustavo Reis
+RNC01041,U008,2025-07-01,Higienização inadequada,Alta,Aberta,,,Elaine Rocha
+RNC01042,U003,2025-05-03,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-05-10,7,Felipe Oliveira
+RNC01043,U003,2025-07-29,Higienização inadequada,Alta,Fechada,2025-07-31,2,Diego Alves
+RNC01044,U014,2024-11-15,Validade vencida,Baixa,Fechada,2024-11-26,11,Carla Mendes
+RNC01045,U001,2025-07-04,Fornecedor não homologado,Alta,Em tratativa,,,Elaine Rocha
+RNC01046,U021,2025-03-29,Cross contamination,Alta,Fechada,2025-03-31,2,Julia Nogueira
+RNC01047,U024,2025-07-03,Praga/vetor identificado,Baixa,Em tratativa,,,Gustavo Reis
+RNC01048,U014,2024-08-22,Documentação incompleta (APPCC/HACCP),Alta,Reincidente,2024-08-29,7,Gustavo Reis
+RNC01049,U009,2024-07-20,Rotulagem incorreta,Média,Fechada,2024-07-27,7,Carla Mendes
+RNC01050,U007,2023-10-29,Fornecedor não homologado,Baixa,Fechada,2023-11-18,20,Helena Dias
+RNC01051,U018,2024-12-20,Temperatura inadequada,Média,Fechada,2024-12-30,10,Elaine Rocha
+RNC01052,U009,2025-04-16,Fornecedor não homologado,Baixa,Fechada,2025-04-25,9,Ana Souza
+RNC01053,U002,2023-12-25,Higienização inadequada,Baixa,Reincidente,2024-01-05,11,Bruno Lima
+RNC01054,U013,2024-02-21,Validade vencida,Baixa,Fechada,2024-03-06,14,Bruno Lima
+RNC01055,U017,2025-05-17,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2025-05-21,4,Julia Nogueira
+RNC01056,U004,2024-08-16,Cross contamination,Baixa,Fechada,2024-08-26,10,Diego Alves
+RNC01057,U014,2024-05-11,Praga/vetor identificado,Baixa,Fechada,2024-05-30,19,Julia Nogueira
+RNC01058,U002,2025-02-14,Rotulagem incorreta,Média,Fechada,2025-03-03,17,Felipe Oliveira
+RNC01059,U018,2024-12-07,Falha em BPF,Média,Fechada,2024-12-15,8,Felipe Oliveira
+RNC01060,U016,2024-10-11,EPI/uniforme não conforme,Alta,Aberta,,,Ana Souza
+RNC01061,U024,2023-11-25,Praga/vetor identificado,Média,Fechada,2023-12-03,8,Felipe Oliveira
+RNC01062,U022,2024-02-02,Fornecedor não homologado,Média,Em tratativa,,,Gustavo Reis
+RNC01063,U001,2024-11-06,Documentação incompleta (APPCC/HACCP),Crítica,Reincidente,2024-11-10,4,Elaine Rocha
+RNC01064,U007,2024-03-13,Cross contamination,Alta,Fechada,2024-03-16,3,Ana Souza
+RNC01065,U009,2023-12-22,Higienização inadequada,Alta,Fechada,2023-12-29,7,Gustavo Reis
+RNC01066,U004,2024-03-13,Higienização inadequada,Média,Fechada,2024-03-19,6,Gustavo Reis
+RNC01067,U020,2025-04-13,Falha em BPF,Alta,Aberta,,,Helena Dias
+RNC01068,U021,2024-02-17,Praga/vetor identificado,Baixa,Em tratativa,,,Felipe Oliveira
+RNC01069,U019,2023-12-24,Falha em BPF,Baixa,Fechada,2024-01-05,12,Julia Nogueira
+RNC01070,U022,2024-11-24,Fornecedor não homologado,Alta,Fechada,2024-12-02,8,Carla Mendes
+RNC01071,U009,2024-03-26,Cross contamination,Média,Em tratativa,,,Felipe Oliveira
+RNC01072,U006,2024-11-06,EPI/uniforme não conforme,Alta,Reincidente,2024-11-07,1,Diego Alves
+RNC01073,U001,2023-10-24,Fornecedor não homologado,Crítica,Reincidente,2023-10-25,1,Diego Alves
+RNC01074,U009,2024-03-21,EPI/uniforme não conforme,Baixa,Fechada,2024-03-26,5,Elaine Rocha
+RNC01075,U005,2023-12-31,Validade vencida,Crítica,Aberta,,,Gustavo Reis
+RNC01076,U025,2025-01-07,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-01-14,7,Diego Alves
+RNC01077,U007,2024-06-29,EPI/uniforme não conforme,Baixa,Fechada,2024-07-07,8,Diego Alves
+RNC01078,U010,2024-04-11,Falha em BPF,Média,Fechada,2024-04-19,8,Ana Souza
+RNC01079,U010,2024-06-25,Fornecedor não homologado,Baixa,Fechada,2024-07-02,7,Bruno Lima
+RNC01080,U001,2025-01-23,Cross contamination,Baixa,Fechada,2025-02-05,13,Diego Alves
+RNC01081,U023,2024-10-27,Temperatura inadequada,Alta,Aberta,,,Ana Souza
+RNC01082,U011,2024-05-28,EPI/uniforme não conforme,Média,Fechada,2024-06-01,4,Julia Nogueira
+RNC01083,U023,2023-11-16,Higienização inadequada,Baixa,Reincidente,2023-11-22,6,Carla Mendes
+RNC01084,U018,2023-11-12,Validade vencida,Média,Fechada,2023-11-19,7,Helena Dias
+RNC01085,U011,2025-01-22,Rotulagem incorreta,Baixa,Em tratativa,,,Felipe Oliveira
+RNC01086,U002,2024-02-08,Praga/vetor identificado,Média,Reincidente,2024-02-20,12,Felipe Oliveira
+RNC01087,U014,2024-07-16,Validade vencida,Alta,Reincidente,2024-07-20,4,Felipe Oliveira
+RNC01088,U014,2024-03-17,Falha em BPF,Baixa,Reincidente,2024-04-09,23,Igor Santos
+RNC01089,U022,2025-07-13,Temperatura inadequada,Alta,Em tratativa,,,Helena Dias
+RNC01090,U009,2024-03-16,Fornecedor não homologado,Alta,Fechada,2024-03-21,5,Ana Souza
+RNC01091,U015,2024-09-30,Falha em BPF,Crítica,Em tratativa,,,Bruno Lima
+RNC01092,U012,2024-01-04,Falha em BPF,Baixa,Fechada,2024-01-13,9,Igor Santos
+RNC01093,U009,2025-04-29,Validade vencida,Alta,Reincidente,2025-05-01,2,Julia Nogueira
+RNC01094,U006,2024-11-30,Fornecedor não homologado,Crítica,Em tratativa,,,Bruno Lima
+RNC01095,U011,2023-10-27,Rotulagem incorreta,Baixa,Fechada,2023-11-11,15,Felipe Oliveira
+RNC01096,U005,2023-10-30,Fornecedor não homologado,Baixa,Fechada,2023-11-10,11,Helena Dias
+RNC01097,U021,2024-07-02,Fornecedor não homologado,Média,Fechada,2024-07-20,18,Felipe Oliveira
+RNC01098,U024,2025-05-05,Praga/vetor identificado,Baixa,Fechada,2025-05-17,12,Felipe Oliveira
+RNC01099,U002,2023-12-12,Documentação incompleta (APPCC/HACCP),Média,Fechada,2023-12-18,6,Gustavo Reis
+RNC01100,U003,2023-10-22,Cross contamination,Alta,Em tratativa,,,Elaine Rocha
+RNC01101,U021,2025-07-31,Praga/vetor identificado,Baixa,Fechada,2025-08-08,8,Julia Nogueira
+RNC01102,U005,2024-10-02,Validade vencida,Média,Fechada,2024-10-16,14,Diego Alves
+RNC01103,U016,2024-12-30,Cross contamination,Alta,Fechada,2024-12-31,1,Felipe Oliveira
+RNC01104,U020,2024-04-08,Temperatura inadequada,Média,Fechada,2024-04-16,8,Igor Santos
+RNC01105,U011,2025-01-17,Validade vencida,Média,Reincidente,2025-01-21,4,Igor Santos
+RNC01106,U003,2024-07-24,Fornecedor não homologado,Média,Aberta,,,Elaine Rocha
+RNC01107,U005,2024-02-08,EPI/uniforme não conforme,Média,Fechada,2024-02-15,7,Ana Souza
+RNC01108,U018,2023-12-18,Validade vencida,Alta,Fechada,2023-12-24,6,Gustavo Reis
+RNC01109,U014,2024-01-05,EPI/uniforme não conforme,Média,Fechada,2024-01-11,6,Bruno Lima
+RNC01110,U025,2025-02-27,Fornecedor não homologado,Baixa,Fechada,2025-02-28,1,Carla Mendes
+RNC01111,U006,2024-11-06,Fornecedor não homologado,Baixa,Fechada,2024-11-09,3,Helena Dias
+RNC01112,U020,2024-06-28,Falha em BPF,Baixa,Reincidente,2024-07-14,16,Diego Alves
+RNC01113,U006,2023-12-20,Validade vencida,Alta,Em tratativa,,,Ana Souza
+RNC01114,U001,2024-11-08,Fornecedor não homologado,Baixa,Em tratativa,,,Helena Dias
+RNC01115,U023,2024-11-18,EPI/uniforme não conforme,Alta,Fechada,2024-11-26,8,Julia Nogueira
+RNC01116,U012,2024-11-08,Falha em BPF,Alta,Aberta,,,Ana Souza
+RNC01117,U007,2024-01-23,Fornecedor não homologado,Alta,Aberta,,,Carla Mendes
+RNC01118,U021,2024-06-04,Validade vencida,Média,Fechada,2024-06-09,5,Diego Alves
+RNC01119,U003,2024-08-04,Falha em BPF,Alta,Em tratativa,,,Helena Dias
+RNC01120,U016,2025-01-25,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-02-11,17,Diego Alves
+RNC01121,U010,2025-05-06,Cross contamination,Alta,Em tratativa,,,Gustavo Reis
+RNC01122,U016,2025-05-15,Praga/vetor identificado,Média,Fechada,2025-05-25,10,Ana Souza
+RNC01123,U016,2024-11-13,Fornecedor não homologado,Média,Fechada,2024-11-16,3,Diego Alves
+RNC01124,U023,2023-12-02,Higienização inadequada,Média,Fechada,2023-12-07,5,Igor Santos
+RNC01125,U003,2024-07-01,Higienização inadequada,Alta,Fechada,2024-07-03,2,Helena Dias
+RNC01126,U023,2024-12-20,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-01-04,15,Helena Dias
+RNC01127,U012,2024-12-22,EPI/uniforme não conforme,Baixa,Fechada,2025-01-05,14,Helena Dias
+RNC01128,U005,2024-07-27,Cross contamination,Alta,Fechada,2024-08-06,10,Felipe Oliveira
+RNC01129,U016,2024-03-14,Falha em BPF,Média,Fechada,2024-03-20,6,Carla Mendes
+RNC01130,U007,2024-03-09,Cross contamination,Média,Em tratativa,,,Helena Dias
+RNC01131,U010,2024-05-28,Higienização inadequada,Baixa,Fechada,2024-06-10,13,Carla Mendes
+RNC01132,U006,2025-02-27,Cross contamination,Baixa,Aberta,,,Bruno Lima
+RNC01133,U020,2024-05-20,Higienização inadequada,Baixa,Fechada,2024-06-01,12,Ana Souza
+RNC01134,U025,2025-04-23,Validade vencida,Baixa,Em tratativa,,,Julia Nogueira
+RNC01135,U022,2024-01-15,Rotulagem incorreta,Alta,Fechada,2024-01-22,7,Bruno Lima
+RNC01136,U020,2025-06-16,Validade vencida,Alta,Reincidente,2025-06-19,3,Ana Souza
+RNC01137,U017,2024-01-16,Praga/vetor identificado,Baixa,Fechada,2024-01-30,14,Helena Dias
+RNC01138,U025,2025-03-02,Falha em BPF,Média,Fechada,2025-03-11,9,Felipe Oliveira
+RNC01139,U011,2024-02-19,Temperatura inadequada,Baixa,Fechada,2024-03-06,16,Diego Alves
+RNC01140,U016,2024-09-14,Praga/vetor identificado,Baixa,Em tratativa,,,Felipe Oliveira
+RNC01141,U023,2024-11-28,Cross contamination,Média,Fechada,2024-12-04,6,Diego Alves
+RNC01142,U005,2024-12-13,Fornecedor não homologado,Média,Fechada,2024-12-19,6,Igor Santos
+RNC01143,U022,2024-10-05,Validade vencida,Crítica,Fechada,2024-10-05,0,Bruno Lima
+RNC01144,U003,2024-09-11,Falha em BPF,Baixa,Reincidente,2024-09-26,15,Gustavo Reis
+RNC01145,U002,2024-11-06,Temperatura inadequada,Alta,Reincidente,2024-11-09,3,Igor Santos
+RNC01146,U010,2024-12-03,Validade vencida,Média,Fechada,2024-12-06,3,Elaine Rocha
+RNC01147,U024,2024-08-17,Falha em BPF,Alta,Fechada,2024-08-24,7,Gustavo Reis
+RNC01148,U015,2025-07-21,EPI/uniforme não conforme,Baixa,Fechada,2025-08-02,12,Helena Dias
+RNC01149,U023,2024-09-18,Praga/vetor identificado,Alta,Em tratativa,,,Bruno Lima
+RNC01150,U002,2025-04-03,Falha em BPF,Baixa,Fechada,2025-04-09,6,Igor Santos
+RNC01151,U018,2024-07-17,Falha em BPF,Baixa,Fechada,2024-07-23,6,Ana Souza
+RNC01152,U001,2025-04-05,Praga/vetor identificado,Média,Em tratativa,,,Gustavo Reis
+RNC01153,U017,2024-01-22,Rotulagem incorreta,Alta,Fechada,2024-01-28,6,Ana Souza
+RNC01154,U025,2025-07-28,EPI/uniforme não conforme,Crítica,Fechada,2025-07-30,2,Ana Souza
+RNC01155,U015,2024-09-12,Validade vencida,Crítica,Fechada,2024-09-16,4,Julia Nogueira
+RNC01156,U008,2024-09-23,EPI/uniforme não conforme,Baixa,Fechada,2024-09-23,0,Carla Mendes
+RNC01157,U023,2024-10-21,Higienização inadequada,Média,Fechada,2024-10-29,8,Helena Dias
+RNC01158,U004,2024-02-28,Rotulagem incorreta,Alta,Fechada,2024-03-06,7,Bruno Lima
+RNC01159,U002,2024-12-09,Validade vencida,Alta,Fechada,2024-12-11,2,Gustavo Reis
+RNC01160,U019,2025-04-25,Praga/vetor identificado,Média,Fechada,2025-05-03,8,Julia Nogueira
+RNC01161,U016,2025-07-13,Cross contamination,Média,Fechada,2025-07-13,0,Carla Mendes
+RNC01162,U005,2025-03-01,Falha em BPF,Baixa,Fechada,2025-03-18,17,Igor Santos
+RNC01163,U017,2024-01-29,Validade vencida,Média,Em tratativa,,,Felipe Oliveira
+RNC01164,U004,2025-06-08,Higienização inadequada,Alta,Em tratativa,,,Julia Nogueira
+RNC01165,U010,2023-11-11,Praga/vetor identificado,Média,Fechada,2023-11-21,10,Helena Dias
+RNC01166,U001,2024-02-24,Temperatura inadequada,Baixa,Fechada,2024-03-10,15,Elaine Rocha
+RNC01167,U010,2024-05-08,Rotulagem incorreta,Baixa,Fechada,2024-05-19,11,Ana Souza
+RNC01168,U014,2025-02-04,Higienização inadequada,Média,Fechada,2025-02-11,7,Gustavo Reis
+RNC01169,U016,2025-06-12,Fornecedor não homologado,Baixa,Fechada,2025-06-29,17,Carla Mendes
+RNC01170,U024,2024-08-29,EPI/uniforme não conforme,Baixa,Fechada,2024-09-16,18,Gustavo Reis
+RNC01171,U013,2024-05-26,Fornecedor não homologado,Alta,Fechada,2024-05-30,4,Elaine Rocha
+RNC01172,U021,2023-12-30,EPI/uniforme não conforme,Alta,Fechada,2024-01-04,5,Elaine Rocha
+RNC01173,U018,2025-07-22,EPI/uniforme não conforme,Baixa,Fechada,2025-07-30,8,Ana Souza
+RNC01174,U019,2025-03-18,Temperatura inadequada,Baixa,Fechada,2025-03-28,10,Bruno Lima
+RNC01175,U022,2025-03-28,EPI/uniforme não conforme,Baixa,Em tratativa,,,Helena Dias
+RNC01176,U003,2025-03-30,Temperatura inadequada,Média,Fechada,2025-04-07,8,Helena Dias
+RNC01177,U001,2024-09-13,Praga/vetor identificado,Média,Fechada,2024-09-14,1,Bruno Lima
+RNC01178,U004,2024-01-10,Falha em BPF,Média,Fechada,2024-01-22,12,Elaine Rocha
+RNC01179,U025,2023-12-31,Higienização inadequada,Baixa,Aberta,,,Carla Mendes
+RNC01180,U001,2023-11-29,Falha em BPF,Baixa,Aberta,,,Gustavo Reis
+RNC01181,U011,2024-06-21,EPI/uniforme não conforme,Média,Em tratativa,,,Julia Nogueira
+RNC01182,U008,2025-02-16,Rotulagem incorreta,Média,Fechada,2025-02-22,6,Elaine Rocha
+RNC01183,U002,2024-08-21,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-08-25,4,Ana Souza
+RNC01184,U009,2025-04-20,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2025-04-23,3,Igor Santos
+RNC01185,U021,2024-02-06,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-02-15,9,Carla Mendes
+RNC01186,U012,2025-04-06,Validade vencida,Crítica,Fechada,2025-04-09,3,Gustavo Reis
+RNC01187,U018,2025-01-05,Falha em BPF,Baixa,Fechada,2025-01-22,17,Ana Souza
+RNC01188,U002,2025-02-05,Cross contamination,Baixa,Fechada,2025-02-05,0,Felipe Oliveira
+RNC01189,U021,2024-05-05,EPI/uniforme não conforme,Média,Fechada,2024-05-11,6,Bruno Lima
+RNC01190,U010,2023-12-31,Falha em BPF,Média,Em tratativa,,,Igor Santos
+RNC01191,U009,2024-12-16,Higienização inadequada,Baixa,Fechada,2024-12-17,1,Elaine Rocha
+RNC01192,U025,2025-01-06,Higienização inadequada,Baixa,Fechada,2025-01-17,11,Felipe Oliveira
+RNC01193,U007,2025-01-13,Temperatura inadequada,Crítica,Em tratativa,,,Julia Nogueira
+RNC01194,U016,2023-10-05,Cross contamination,Alta,Fechada,2023-10-14,9,Igor Santos
+RNC01195,U023,2025-02-12,Rotulagem incorreta,Alta,Fechada,2025-02-12,0,Igor Santos
+RNC01196,U001,2024-12-29,Cross contamination,Média,Fechada,2025-01-04,6,Julia Nogueira
+RNC01197,U012,2024-10-31,Fornecedor não homologado,Baixa,Aberta,,,Felipe Oliveira
+RNC01198,U007,2024-12-29,Praga/vetor identificado,Baixa,Fechada,2024-12-31,2,Felipe Oliveira
+RNC01199,U007,2024-01-01,Fornecedor não homologado,Alta,Em tratativa,,,Felipe Oliveira
+RNC01200,U002,2024-07-14,EPI/uniforme não conforme,Média,Fechada,2024-07-16,2,Diego Alves
+RNC01201,U001,2024-04-18,Validade vencida,Crítica,Fechada,2024-04-20,2,Helena Dias
+RNC01202,U006,2025-04-18,EPI/uniforme não conforme,Baixa,Fechada,2025-04-27,9,Julia Nogueira
+RNC01203,U006,2023-12-06,Documentação incompleta (APPCC/HACCP),Média,Reincidente,2023-12-13,7,Igor Santos
+RNC01204,U024,2024-07-07,Validade vencida,Baixa,Fechada,2024-07-15,8,Julia Nogueira
+RNC01205,U009,2025-04-26,Temperatura inadequada,Alta,Fechada,2025-05-03,7,Felipe Oliveira
+RNC01206,U014,2024-11-20,Fornecedor não homologado,Baixa,Fechada,2024-12-02,12,Helena Dias
+RNC01207,U012,2025-03-13,Cross contamination,Alta,Fechada,2025-03-19,6,Igor Santos
+RNC01208,U015,2024-08-19,Rotulagem incorreta,Baixa,Em tratativa,,,Julia Nogueira
+RNC01209,U001,2024-05-19,Falha em BPF,Crítica,Em tratativa,,,Felipe Oliveira
+RNC01210,U010,2023-12-04,Fornecedor não homologado,Média,Aberta,,,Gustavo Reis
+RNC01211,U001,2025-05-29,Fornecedor não homologado,Alta,Em tratativa,,,Diego Alves
+RNC01212,U011,2023-11-25,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2023-11-28,3,Bruno Lima
+RNC01213,U025,2025-06-06,Rotulagem incorreta,Média,Fechada,2025-06-14,8,Ana Souza
+RNC01214,U002,2024-10-21,Rotulagem incorreta,Baixa,Fechada,2024-10-24,3,Carla Mendes
+RNC01215,U002,2024-12-26,Temperatura inadequada,Baixa,Em tratativa,,,Igor Santos
+RNC01216,U002,2024-07-28,EPI/uniforme não conforme,Alta,Fechada,2024-07-31,3,Gustavo Reis
+RNC01217,U008,2025-06-05,Cross contamination,Alta,Fechada,2025-06-08,3,Julia Nogueira
+RNC01218,U020,2024-01-12,Temperatura inadequada,Baixa,Reincidente,2024-01-19,7,Helena Dias
+RNC01219,U017,2024-09-01,EPI/uniforme não conforme,Média,Fechada,2024-09-09,8,Diego Alves
+RNC01220,U019,2024-02-07,Cross contamination,Média,Fechada,2024-02-15,8,Helena Dias
+RNC01221,U024,2025-06-27,Praga/vetor identificado,Média,Aberta,,,Julia Nogueira
+RNC01222,U014,2025-03-09,Praga/vetor identificado,Crítica,Fechada,2025-03-14,5,Julia Nogueira
+RNC01223,U018,2024-02-27,Temperatura inadequada,Baixa,Fechada,2024-03-08,10,Igor Santos
+RNC01224,U019,2024-02-26,Validade vencida,Baixa,Fechada,2024-03-14,17,Ana Souza
+RNC01225,U014,2024-09-17,Higienização inadequada,Baixa,Fechada,2024-10-03,16,Diego Alves
+RNC01226,U022,2025-01-30,EPI/uniforme não conforme,Média,Reincidente,2025-02-15,16,Felipe Oliveira
+RNC01227,U019,2025-05-02,Fornecedor não homologado,Crítica,Em tratativa,,,Ana Souza
+RNC01228,U016,2024-05-12,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-05-15,3,Helena Dias
+RNC01229,U020,2024-05-06,Cross contamination,Baixa,Fechada,2024-05-16,10,Diego Alves
+RNC01230,U013,2024-04-06,Temperatura inadequada,Alta,Aberta,,,Bruno Lima
+RNC01231,U012,2023-10-31,Higienização inadequada,Média,Fechada,2023-11-10,10,Ana Souza
+RNC01232,U001,2024-04-21,Praga/vetor identificado,Baixa,Em tratativa,,,Carla Mendes
+RNC01233,U011,2025-04-20,Rotulagem incorreta,Baixa,Fechada,2025-05-03,13,Ana Souza
+RNC01234,U022,2024-02-18,Rotulagem incorreta,Média,Fechada,2024-02-28,10,Felipe Oliveira
+RNC01235,U007,2024-08-08,Validade vencida,Média,Em tratativa,,,Julia Nogueira
+RNC01236,U014,2023-12-06,Falha em BPF,Baixa,Fechada,2023-12-22,16,Diego Alves
+RNC01237,U007,2025-03-29,Documentação incompleta (APPCC/HACCP),Média,Reincidente,2025-04-02,4,Ana Souza
+RNC01238,U025,2025-06-22,Praga/vetor identificado,Média,Fechada,2025-07-03,11,Carla Mendes
+RNC01239,U011,2024-06-10,EPI/uniforme não conforme,Baixa,Fechada,2024-06-25,15,Helena Dias
+RNC01240,U007,2023-12-23,EPI/uniforme não conforme,Alta,Fechada,2023-12-23,0,Bruno Lima
+RNC01241,U006,2025-03-04,Validade vencida,Média,Fechada,2025-03-16,12,Helena Dias
+RNC01242,U006,2024-08-25,Fornecedor não homologado,Alta,Fechada,2024-08-27,2,Helena Dias
+RNC01243,U016,2024-07-01,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-07-04,3,Diego Alves
+RNC01244,U007,2025-01-05,Praga/vetor identificado,Alta,Fechada,2025-01-06,1,Gustavo Reis
+RNC01245,U013,2025-05-08,Rotulagem incorreta,Baixa,Aberta,,,Elaine Rocha
+RNC01246,U015,2025-03-15,Fornecedor não homologado,Média,Fechada,2025-03-20,5,Igor Santos
+RNC01247,U020,2024-09-09,Higienização inadequada,Média,Fechada,2024-09-12,3,Elaine Rocha
+RNC01248,U013,2023-10-26,Rotulagem incorreta,Baixa,Em tratativa,,,Felipe Oliveira
+RNC01249,U003,2024-07-28,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-07-29,1,Bruno Lima
+RNC01250,U004,2023-12-13,Higienização inadequada,Média,Fechada,2023-12-20,7,Diego Alves
+RNC01251,U022,2024-09-02,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2024-09-13,11,Julia Nogueira
+RNC01252,U005,2025-04-09,Praga/vetor identificado,Alta,Aberta,,,Elaine Rocha
+RNC01253,U012,2024-11-17,Validade vencida,Crítica,Aberta,,,Carla Mendes
+RNC01254,U013,2024-05-21,Fornecedor não homologado,Baixa,Fechada,2024-05-23,2,Diego Alves
+RNC01255,U017,2025-05-24,Rotulagem incorreta,Alta,Fechada,2025-05-29,5,Felipe Oliveira
+RNC01256,U007,2024-12-13,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2024-12-14,1,Helena Dias
+RNC01257,U015,2025-04-24,Temperatura inadequada,Baixa,Fechada,2025-05-13,19,Helena Dias
+RNC01258,U022,2024-09-28,Cross contamination,Baixa,Fechada,2024-10-19,21,Igor Santos
+RNC01259,U010,2024-08-29,Higienização inadequada,Média,Em tratativa,,,Julia Nogueira
+RNC01260,U021,2025-06-09,Cross contamination,Alta,Fechada,2025-06-13,4,Gustavo Reis
+RNC01261,U007,2024-11-04,Fornecedor não homologado,Baixa,Fechada,2024-11-10,6,Elaine Rocha
+RNC01262,U003,2024-03-24,Temperatura inadequada,Baixa,Fechada,2024-04-09,16,Julia Nogueira
+RNC01263,U016,2023-10-28,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2023-11-22,25,Elaine Rocha
+RNC01264,U022,2025-03-20,Validade vencida,Baixa,Aberta,,,Ana Souza
+RNC01265,U006,2024-08-30,Validade vencida,Alta,Em tratativa,,,Gustavo Reis
+RNC01266,U016,2023-12-10,Documentação incompleta (APPCC/HACCP),Média,Reincidente,2023-12-19,9,Carla Mendes
+RNC01267,U007,2024-08-13,Praga/vetor identificado,Média,Fechada,2024-08-19,6,Julia Nogueira
+RNC01268,U007,2025-02-26,Documentação incompleta (APPCC/HACCP),Alta,Fechada,2025-02-28,2,Ana Souza
+RNC01269,U005,2024-12-30,EPI/uniforme não conforme,Baixa,Fechada,2025-01-02,3,Helena Dias
+RNC01270,U015,2025-01-16,Praga/vetor identificado,Média,Fechada,2025-01-28,12,Helena Dias
+RNC01271,U012,2024-07-31,Falha em BPF,Média,Fechada,2024-08-11,11,Julia Nogueira
+RNC01272,U024,2024-12-16,Falha em BPF,Média,Reincidente,2024-12-17,1,Julia Nogueira
+RNC01273,U004,2024-11-06,Validade vencida,Média,Em tratativa,,,Elaine Rocha
+RNC01274,U022,2023-12-08,Documentação incompleta (APPCC/HACCP),Média,Fechada,2023-12-18,10,Helena Dias
+RNC01275,U014,2025-04-19,Higienização inadequada,Baixa,Fechada,2025-04-24,5,Gustavo Reis
+RNC01276,U015,2024-03-17,Fornecedor não homologado,Baixa,Fechada,2024-04-05,19,Ana Souza
+RNC01277,U003,2025-07-16,Documentação incompleta (APPCC/HACCP),Média,Fechada,2025-07-23,7,Gustavo Reis
+RNC01278,U002,2023-10-11,Falha em BPF,Baixa,Fechada,2023-10-17,6,Felipe Oliveira
+RNC01279,U022,2025-01-18,Fornecedor não homologado,Média,Em tratativa,,,Carla Mendes
+RNC01280,U016,2024-07-12,Temperatura inadequada,Alta,Em tratativa,,,Julia Nogueira
+RNC01281,U004,2024-03-30,Temperatura inadequada,Baixa,Aberta,,,Elaine Rocha
+RNC01282,U005,2024-12-25,Temperatura inadequada,Média,Em tratativa,,,Igor Santos
+RNC01283,U007,2024-12-26,Rotulagem incorreta,Média,Fechada,2025-01-06,11,Gustavo Reis
+RNC01284,U023,2024-08-11,Temperatura inadequada,Média,Fechada,2024-08-12,1,Gustavo Reis
+RNC01285,U025,2024-04-24,Cross contamination,Crítica,Aberta,,,Ana Souza
+RNC01286,U001,2024-09-10,Rotulagem incorreta,Alta,Fechada,2024-09-16,6,Diego Alves
+RNC01287,U004,2024-03-20,Higienização inadequada,Alta,Fechada,2024-03-27,7,Igor Santos
+RNC01288,U021,2024-04-12,Cross contamination,Média,Reincidente,2024-04-21,9,Gustavo Reis
+RNC01289,U004,2024-05-25,Higienização inadequada,Baixa,Fechada,2024-06-03,9,Ana Souza
+RNC01290,U013,2024-05-05,Praga/vetor identificado,Média,Aberta,,,Julia Nogueira
+RNC01291,U012,2023-11-14,Rotulagem incorreta,Baixa,Fechada,2023-11-26,12,Igor Santos
+RNC01292,U019,2024-03-24,Higienização inadequada,Baixa,Aberta,,,Gustavo Reis
+RNC01293,U022,2024-02-14,Fornecedor não homologado,Baixa,Fechada,2024-02-17,3,Bruno Lima
+RNC01294,U011,2023-10-19,Cross contamination,Média,Fechada,2023-10-20,1,Igor Santos
+RNC01295,U021,2024-05-26,Rotulagem incorreta,Média,Aberta,,,Elaine Rocha
+RNC01296,U008,2024-12-12,Temperatura inadequada,Alta,Fechada,2024-12-16,4,Carla Mendes
+RNC01297,U012,2025-02-22,EPI/uniforme não conforme,Baixa,Aberta,,,Helena Dias
+RNC01298,U024,2024-09-01,Temperatura inadequada,Baixa,Fechada,2024-09-16,15,Igor Santos
+RNC01299,U014,2025-07-25,Higienização inadequada,Alta,Fechada,2025-07-30,5,Diego Alves
+RNC01300,U007,2025-04-05,Documentação incompleta (APPCC/HACCP),Baixa,Reincidente,2025-04-12,7,Diego Alves
+RNC01301,U020,2024-10-25,Fornecedor não homologado,Média,Aberta,,,Bruno Lima
+RNC01302,U007,2023-11-23,Documentação incompleta (APPCC/HACCP),Média,Em tratativa,,,Carla Mendes
+RNC01303,U003,2024-03-26,Rotulagem incorreta,Média,Em tratativa,,,Gustavo Reis
+RNC01304,U024,2025-01-21,Documentação incompleta (APPCC/HACCP),Baixa,Fechada,2025-01-21,0,Gustavo Reis
+RNC01305,U006,2025-06-12,Praga/vetor identificado,Baixa,Fechada,2025-06-22,10,Helena Dias
+RNC01306,U003,2024-10-03,Fornecedor não homologado,Média,Em tratativa,,,Gustavo Reis
+RNC01307,U017,2025-06-16,Temperatura inadequada,Alta,Fechada,2025-06-21,5,Gustavo Reis
+RNC01308,U014,2023-12-25,EPI/uniforme não conforme,Alta,Reincidente,2023-12-25,0,Igor Santos
+RNC01309,U005,2025-04-19,Cross contamination,Alta,Fechada,2025-04-23,4,Igor Santos
+RNC01310,U020,2025-02-04,Fornecedor não homologado,Baixa,Em tratativa,,,Diego Alves
+RNC01311,U005,2024-04-12,Cross contamination,Baixa,Fechada,2024-04-30,18,Gustavo Reis
+RNC01312,U013,2024-10-17,EPI/uniforme não conforme,Média,Fechada,2024-10-20,3,Bruno Lima
+RNC01313,U014,2023-11-09,Cross contamination,Crítica,Em tratativa,,,Elaine Rocha
+RNC01314,U025,2024-09-21,Higienização inadequada,Média,Fechada,2024-10-05,14,Ana Souza
+RNC01315,U021,2024-10-29,Higienização inadequada,Crítica,Aberta,,,Ana Souza
+RNC01316,U023,2025-07-22,Falha em BPF,Baixa,Fechada,2025-07-29,7,Elaine Rocha
+RNC01317,U008,2025-06-08,Rotulagem incorreta,Média,Em tratativa,,,Gustavo Reis
+RNC01318,U013,2025-05-23,Documentação incompleta (APPCC/HACCP),Crítica,Aberta,,,Gustavo Reis
+RNC01319,U006,2024-12-11,Cross contamination,Baixa,Fechada,2024-12-17,6,Julia Nogueira
+RNC01320,U010,2024-11-25,Rotulagem incorreta,Alta,Reincidente,2024-12-06,11,Bruno Lima
+RNC01321,U021,2025-05-09,Cross contamination,Alta,Fechada,2025-05-13,4,Elaine Rocha
+RNC01322,U001,2024-03-21,Rotulagem incorreta,Alta,Aberta,,,Gustavo Reis
+RNC01323,U017,2024-11-30,Falha em BPF,Média,Fechada,2024-12-07,7,Diego Alves
+RNC01324,U016,2024-04-04,EPI/uniforme não conforme,Média,Em tratativa,,,Diego Alves
+RNC01325,U006,2024-04-23,Cross contamination,Baixa,Fechada,2024-05-09,16,Helena Dias
+RNC01326,U021,2025-07-01,Rotulagem incorreta,Baixa,Fechada,2025-07-22,21,Elaine Rocha
+RNC01327,U003,2024-10-21,Fornecedor não homologado,Baixa,Em tratativa,,,Bruno Lima
+RNC01328,U001,2023-12-02,EPI/uniforme não conforme,Baixa,Reincidente,2023-12-14,12,Ana Souza
+RNC01329,U004,2024-05-04,Praga/vetor identificado,Média,Reincidente,2024-05-17,13,Helena Dias
+RNC01330,U016,2024-09-10,Higienização inadequada,Média,Fechada,2024-09-18,8,Felipe Oliveira
+RNC01331,U008,2024-10-04,Higienização inadequada,Média,Fechada,2024-10-11,7,Bruno Lima
+RNC01332,U001,2025-01-10,Falha em BPF,Alta,Fechada,2025-01-15,5,Ana Souza
+RNC01333,U020,2024-02-03,Higienização inadequada,Alta,Fechada,2024-02-07,4,Helena Dias
+RNC01334,U020,2025-01-29,Temperatura inadequada,Média,Fechada,2025-02-12,14,Felipe Oliveira
+RNC01335,U001,2025-07-10,Fornecedor não homologado,Média,Fechada,2025-07-24,14,Diego Alves
+RNC01336,U020,2025-02-08,Rotulagem incorreta,Média,Fechada,2025-02-18,10,Felipe Oliveira
+RNC01337,U014,2025-01-30,Praga/vetor identificado,Crítica,Fechada,2025-02-04,5,Julia Nogueira
+RNC01338,U007,2024-02-24,Validade vencida,Alta,Fechada,2024-02-24,0,Ana Souza
+RNC01339,U005,2025-02-21,Fornecedor não homologado,Alta,Fechada,2025-02-24,3,Carla Mendes
+RNC01340,U015,2024-01-27,Documentação incompleta (APPCC/HACCP),Média,Fechada,2024-02-09,13,Diego Alves
+RNC01341,U006,2023-12-31,Higienização inadequada,Baixa,Reincidente,2024-01-13,13,Gustavo Reis
+RNC01342,U025,2024-07-14,Fornecedor não homologado,Baixa,Fechada,2024-07-25,11,Bruno Lima
+RNC01343,U022,2024-02-17,Higienização inadequada,Crítica,Fechada,2024-02-18,1,Diego Alves
+RNC01344,U019,2025-06-07,Cross contamination,Baixa,Fechada,2025-06-13,6,Igor Santos
+RNC01345,U014,2024-05-26,EPI/uniforme não conforme,Baixa,Aberta,,,Diego Alves
+RNC01346,U024,2024-01-27,Higienização inadequada,Média,Em tratativa,,,Gustavo Reis
+RNC01347,U019,2023-10-02,Cross contamination,Baixa,Fechada,2023-10-10,8,Felipe Oliveira
+RNC01348,U025,2024-10-08,Falha em BPF,Alta,Reincidente,2024-10-12,4,Igor Santos
+RNC01349,U022,2025-06-08,Higienização inadequada,Média,Fechada,2025-06-16,8,Carla Mendes
+RNC01350,U010,2024-05-12,EPI/uniforme não conforme,Média,Fechada,2024-05-20,8,Elaine Rocha
+RNC01351,U005,2023-11-05,EPI/uniforme não conforme,Média,Em tratativa,,,Helena Dias
+RNC01352,U021,2024-05-08,Cross contamination,Média,Fechada,2024-05-27,19,Ana Souza
+RNC01353,U011,2024-03-05,Temperatura inadequada,Alta,Fechada,2024-03-10,5,Carla Mendes
+RNC01354,U016,2024-11-05,Falha em BPF,Baixa,Fechada,2024-11-26,21,Ana Souza
+RNC01355,U018,2024-11-05,Cross contamination,Baixa,Fechada,2024-11-09,4,Bruno Lima
+RNC01356,U017,2024-07-16,Validade vencida,Baixa,Reincidente,2024-07-16,0,Gustavo Reis
+RNC01357,U004,2024-02-12,Praga/vetor identificado,Baixa,Aberta,,,Helena Dias
+RNC01358,U021,2024-03-16,Fornecedor não homologado,Média,Fechada,2024-03-16,0,Elaine Rocha
+RNC01359,U005,2024-05-02,EPI/uniforme não conforme,Baixa,Aberta,,,Bruno Lima
+RNC01360,U022,2024-02-29,Falha em BPF,Média,Reincidente,2024-03-01,1,Ana Souza
+RNC01361,U004,2024-09-29,Higienização inadequada,Crítica,Reincidente,2024-10-02,3,Julia Nogueira
+RNC01362,U014,2024-03-01,Temperatura inadequada,Média,Fechada,2024-03-10,9,Bruno Lima
+RNC01363,U008,2024-11-10,Cross contamination,Média,Fechada,2024-11-14,4,Bruno Lima
+RNC01364,U025,2025-01-17,Praga/vetor identificado,Alta,Fechada,2025-01-17,0,Helena Dias
+RNC01365,U012,2023-10-12,Validade vencida,Baixa,Fechada,2023-10-30,18,Diego Alves
+RNC01366,U001,2025-05-23,Praga/vetor identificado,Média,Fechada,2025-06-02,10,Bruno Lima
+RNC01367,U019,2024-04-03,Falha em BPF,Média,Fechada,2024-04-17,14,Bruno Lima
+RNC01368,U011,2023-12-05,Validade vencida,Alta,Fechada,2023-12-09,4,Carla Mendes
+RNC01369,U013,2023-10-21,Rotulagem incorreta,Média,Fechada,2023-10-31,10,Igor Santos
+RNC01370,U019,2025-04-04,Rotulagem incorreta,Alta,Fechada,2025-04-05,1,Diego Alves
+RNC01371,U022,2024-01-29,Higienização inadequada,Baixa,Fechada,2024-02-06,8,Bruno Lima
+RNC01372,U002,2024-02-09,Rotulagem incorreta,Média,Fechada,2024-02-15,6,Igor Santos
+RNC01373,U009,2023-11-05,Falha em BPF,Baixa,Reincidente,2023-11-20,15,Gustavo Reis
+RNC01374,U022,2023-10-01,Validade vencida,Baixa,Aberta,,,Elaine Rocha
+RNC01375,U022,2025-03-30,Higienização inadequada,Média,Fechada,2025-04-01,2,Julia Nogueira
+RNC01376,U018,2025-03-06,Temperatura inadequada,Baixa,Aberta,,,Diego Alves
+RNC01377,U002,2024-04-10,Validade vencida,Baixa,Em tratativa,,,Diego Alves
+RNC01378,U019,2024-10-02,Cross contamination,Baixa,Fechada,2024-10-10,8,Bruno Lima
+RNC01379,U018,2024-06-18,Praga/vetor identificado,Baixa,Fechada,2024-06-27,9,Gustavo Reis
+RNC01380,U023,2024-02-24,Praga/vetor identificado,Média,Aberta,,,Diego Alves
+RNC01381,U023,2024-10-16,Falha em BPF,Média,Em tratativa,,,Felipe Oliveira
+RNC01382,U014,2024-10-23,Rotulagem incorreta,Baixa,Fechada,2024-10-29,6,Elaine Rocha
+RNC01383,U004,2025-03-28,Higienização inadequada,Baixa,Fechada,2025-04-06,9,Felipe Oliveira
+RNC01384,U025,2024-07-06,Praga/vetor identificado,Baixa,Fechada,2024-07-17,11,Ana Souza
+RNC01385,U004,2024-10-21,Rotulagem incorreta,Crítica,Fechada,2024-10-24,3,Carla Mendes
+RNC01386,U017,2024-08-09,Rotulagem incorreta,Média,Fechada,2024-08-26,17,Igor Santos
+RNC01387,U012,2025-05-08,Falha em BPF,Alta,Fechada,2025-05-09,1,Felipe Oliveira
+RNC01388,U025,2024-11-02,Validade vencida,Baixa,Fechada,2024-11-11,9,Igor Santos
+RNC01389,U020,2024-11-16,Falha em BPF,Média,Fechada,2024-11-24,8,Carla Mendes
+RNC01390,U005,2024-10-22,Higienização inadequada,Média,Fechada,2024-10-30,8,Diego Alves
+RNC01391,U022,2025-06-15,Fornecedor não homologado,Média,Fechada,2025-06-18,3,Igor Santos
+RNC01392,U010,2024-07-09,Documentação incompleta (APPCC/HACCP),Crítica,Fechada,2024-07-12,3,Elaine Rocha
+RNC01393,U021,2023-12-29,Rotulagem incorreta,Crítica,Aberta,,,Bruno Lima
+RNC01394,U024,2024-06-02,Temperatura inadequada,Crítica,Em tratativa,,,Bruno Lima
+RNC01395,U024,2024-07-19,Cross contamination,Média,Reincidente,2024-07-19,0,Igor Santos
+RNC01396,U024,2024-02-17,Validade vencida,Média,Fechada,2024-02-25,8,Bruno Lima
+RNC01397,U013,2023-10-15,Validade vencida,Média,Fechada,2023-10-28,13,Felipe Oliveira
+RNC01398,U008,2025-03-24,Fornecedor não homologado,Média,Aberta,,,Carla Mendes
+RNC01399,U022,2025-03-20,Higienização inadequada,Alta,Em tratativa,,,Ana Souza
+RNC01400,U014,2025-02-19,Rotulagem incorreta,Média,Fechada,2025-03-02,11,Felipe Oliveira

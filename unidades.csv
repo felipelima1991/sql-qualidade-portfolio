@@ -1,0 +1,26 @@
+id_unidade,nome_unidade,regiao,bandeira,num_refeicoes_dia
+U001,Unidade 001,Sudeste,Varejo Alimentar,1250
+U002,Unidade 002,Nordeste,Varejo Alimentar,250
+U003,Unidade 003,Sul,Indústria,0
+U004,Unidade 004,Sudeste,Indústria,800
+U005,Unidade 005,Sudeste,Varejo Alimentar,0
+U006,Unidade 006,Sul,Varejo Alimentar,1000
+U007,Unidade 007,Sudeste,Indústria,250
+U008,Unidade 008,Centro-Oeste,Varejo Alimentar,800
+U009,Unidade 009,Nordeste,Varejo Alimentar,250
+U010,Unidade 010,Centro-Oeste,Food Service,500
+U011,Unidade 011,Sul,Varejo Alimentar,500
+U012,Unidade 012,Sudeste,Varejo Alimentar,800
+U013,Unidade 013,Sudeste,Food Service,500
+U014,Unidade 014,Nordeste,Varejo Alimentar,1250
+U015,Unidade 015,Centro-Oeste,Indústria,0
+U016,Unidade 016,Centro-Oeste,Varejo Alimentar,1000
+U017,Unidade 017,Nordeste,Indústria,1000
+U018,Unidade 018,Nordeste,Indústria,250
+U019,Unidade 019,Sudeste,Varejo Alimentar,1250
+U020,Unidade 020,Sul,Food Service,0
+U021,Unidade 021,Sul,Varejo Alimentar,800
+U022,Unidade 022,Nordeste,Food Service,1250
+U023,Unidade 023,Nordeste,Varejo Alimentar,500
+U024,Unidade 024,Nordeste,Varejo Alimentar,1250
+U025,Unidade 025,Nordeste,Indústria,1250
