@@ -14,7 +14,7 @@ Criei um dataset simulado de não conformidades (inspirado em situações reais 
 
 Não é sobre aprender sintaxe. É sobre continuar fazendo o que sempre fiz — transformar problema de campo em decisão — só que agora com outra ferramenta.
 
-Repositório no GitHub: [link]
+Repositório no GitHub: [(https://github.com/felipelima1991/sql-qualidade-portfolio)]
 
 Próximo passo da trilha: transformar essas queries em um dashboard.
 
